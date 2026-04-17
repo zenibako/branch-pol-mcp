@@ -126,6 +126,20 @@ Create a virtual ballot with your candidate selections.
 
 All election data is sourced from [Branch Politics](https://www.branch.vote), a free, nonpartisan website that helps voters make informed decisions about local elections.
 
+## ⚠️ Important Disclaimers
+
+**UNOFFICIAL SOURCE**: Branch.vote is not an official public resource. Information such as election dates, voting locations, and ballot items may not be 100% accurate. Always double-check any information against official sources like your state's Secretary of State website or your official sample ballot.
+
+**NOT A BALLOT**: The `fill_ballot` tool creates a local virtual ballot for personal reference only. It is not saved to Branch.vote, does not constitute an official vote, and is not transmitted anywhere. You must cast your official vote at your polling place or via absentee ballot.
+
+**INTELLECTUAL PROPERTY**: Branch.vote's Content and Marks are the property of Branch Chat PBC. This tool accesses publicly available pages for **personal, non-commercial use** only. You may not use this data to create databases, compilations, or commercial products without written permission from Branch Chat PBC.
+
+**NO SCRAPING WARRANTY**: This server relies on Branch.vote's publicly accessible Next.js data endpoints, which may change structure or become unavailable without notice. The server may break if the site is restructured.
+
+**ACCURACY**: Per Branch.vote's Terms of Use: *"We cannot guarantee that the information on our website, such as election dates, voting locations, and items on the ballot, is 100% accurate."* Verify all information with official election authorities before making voting decisions.
+
+For the complete terms, see [branch.vote/termsofuse](https://www.branch.vote/termsofuse).
+
 ## License
 
 MIT
