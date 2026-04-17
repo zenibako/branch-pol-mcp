@@ -545,7 +545,7 @@ func (s *Server) registerTools() {
 		Choices     []BallotChoice `json:"choices" jsonschema:"required,List of your candidate choices. Each choice must include race_key, candidate_key (the candidate slug), and candidate_name."`
 	}
 
-	mustRegister(s.server, "fill_ballot", "Create a virtual ballot by selecting your preferred candidates for each race. Returns a formatted ballot with your choices.", func(args FillBallotArgs) (*mcpgolang.ToolResponse, error) {
+	mustRegister(s.server, "fill_ballot", "Create a virtual ballot by selecting your preferred candidates for each race. Returns a formatted ballot with your choices. This ballot is local-only and not saved to Branch.vote — it is for your personal reference only. You must still cast your official vote at your polling place or via absentee ballot.", func(args FillBallotArgs) (*mcpgolang.ToolResponse, error) {
 		stateCode := strings.ToLower(args.StateCode)
 		if _, ok := branch.SupportedStates[stateCode]; !ok {
 			return mcpgolang.NewToolResponse(mcpgolang.NewTextContent(fmt.Sprintf("State '%s' is not supported.", args.StateCode))), nil
@@ -553,6 +553,7 @@ func (s *Server) registerTools() {
 
 		var sb strings.Builder
 		sb.WriteString("# Your Virtual Ballot\n\n")
+		sb.WriteString("> **Note**: This ballot is local to this conversation and is not saved to or synced with Branch.vote. It is for your personal reference only — you must still cast your official vote at your polling place or via absentee ballot.\n\n")
 		sb.WriteString(fmt.Sprintf("**Election**: %s\n", args.ElectionKey))
 		sb.WriteString(fmt.Sprintf("**State**: %s\n", strings.ToUpper(stateCode)))
 		if args.Party != "" {
@@ -570,7 +571,7 @@ func (s *Server) registerTools() {
 
 		sb.WriteString("\n---\n\n")
 		sb.WriteString(fmt.Sprintf("**Total choices: %d**\n\n", len(args.Choices)))
-		sb.WriteString("*This is a virtual ballot for your reference. Remember to cast your official vote at your polling place or via absentee ballot.*\n")
+		sb.WriteString("*This is a virtual ballot for your reference only. It is not stored on Branch.vote and does not constitute an official vote. You must cast your official vote at your polling place or via absentee ballot.*\n")
 
 		return mcpgolang.NewToolResponse(mcpgolang.NewTextContent(sb.String())), nil
 	})
