@@ -1,0 +1,3 @@
+[     298ms] [WARNING] <Div100vh /> overrides the height property of the style prop @ https://www.branch.vote/_next/static/chunks/pages/_app-41c78670a7c02ded.js:101
+[     307ms] [LOG] Setting branch-lng cookie to en @ https://www.branch.vote/_next/static/chunks/pages/_app-41c78670a7c02ded.js:102
+[     520ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyAYehI8vV76ybrG8UQIPSUrS2PTXKR6hdM&callback=loaderCB01776426139147&libraries=places:1433

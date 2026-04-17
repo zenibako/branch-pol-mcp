@@ -1,0 +1,144 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Branch Politics Logo" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img "Branch Politics Logo" [ref=e11]
+        - link "Your ballot" [ref=e13] [cursor=pointer]:
+          - /url: /setup
+        - link "Elections" [ref=e15] [cursor=pointer]:
+          - /url: /elections
+        - link "About us" [ref=e17] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=e18]:
+        - link "Sign in" [ref=e19] [cursor=pointer]:
+          - /url: /login
+        - link "Find ballot" [ref=e20] [cursor=pointer]:
+          - /url: /setup
+          - button "Find ballot" [ref=e21]
+    - generic [ref=e23]:
+      - main "Elections by state page" [ref=e24]:
+        - generic [ref=e25]:
+          - heading "Elections by state" [level=1] [ref=e26]
+          - paragraph [ref=e27]: Click on a state below to view information about recent and upcoming elections, including in-depth information on hundreds of local candidates.
+          - list "available elections" [ref=e28]:
+            - generic [ref=e29]:
+              - link "Arizona" [ref=e30]:
+                - link [ref=e31] [cursor=pointer]:
+                  - /url: /elections/state/az
+                  - paragraph [ref=e32]: Arizona
+              - link "Georgia" [ref=e33]:
+                - link [ref=e34] [cursor=pointer]:
+                  - /url: /elections/state/ga
+                  - paragraph [ref=e35]: Georgia
+              - link "Kentucky" [ref=e36]:
+                - link [ref=e37] [cursor=pointer]:
+                  - /url: /elections/state/ky
+                  - paragraph [ref=e38]: Kentucky
+              - link "Montana" [ref=e39]:
+                - link [ref=e40] [cursor=pointer]:
+                  - /url: /elections/state/mt
+                  - paragraph [ref=e41]: Montana
+              - link "New York" [ref=e42]:
+                - link [ref=e43] [cursor=pointer]:
+                  - /url: /elections/state/ny
+                  - paragraph [ref=e44]: New York
+              - link "North Carolina" [ref=e45]:
+                - link [ref=e46] [cursor=pointer]:
+                  - /url: /elections/state/nc
+                  - paragraph [ref=e47]: North Carolina
+              - link "North Dakota" [ref=e48]:
+                - link [ref=e49] [cursor=pointer]:
+                  - /url: /elections/state/nd
+                  - paragraph [ref=e50]: North Dakota
+              - link "Ohio" [ref=e51]:
+                - link [ref=e52] [cursor=pointer]:
+                  - /url: /elections/state/oh
+                  - paragraph [ref=e53]: Ohio
+              - link "Pennsylvania" [ref=e54]:
+                - link [ref=e55] [cursor=pointer]:
+                  - /url: /elections/state/pa
+                  - paragraph [ref=e56]: Pennsylvania
+              - link "Texas" [ref=e57]:
+                - link [ref=e58] [cursor=pointer]:
+                  - /url: /elections/state/tx
+                  - paragraph [ref=e59]: Texas
+              - link "Washington" [ref=e60]:
+                - link [ref=e61] [cursor=pointer]:
+                  - /url: /elections/state/wa
+                  - paragraph [ref=e62]: Washington
+              - link "Wisconsin" [ref=e63]:
+                - link [ref=e64] [cursor=pointer]:
+                  - /url: /elections/state/wi
+                  - paragraph [ref=e65]: Wisconsin
+        - generic [ref=e66]:
+          - img [ref=e67]
+          - heading "Don't see your state?" [level=2] [ref=e69]
+          - paragraph [ref=e70]: Sign up to receive alerts when we expand into your state.
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - textbox "Name" [ref=e74]
+              - group
+            - generic [ref=e76]:
+              - textbox "Email address" [ref=e77]
+              - group
+            - generic [ref=e80]:
+              - textbox "State" [ref=e81]
+              - group
+            - generic [ref=e82] [cursor=pointer]:
+              - checkbox "Keep me up to date with everything new happening with Branch." [checked] [ref=e83]:
+                - img [ref=e84]
+              - paragraph [ref=e87]: Keep me up to date with everything new happening with Branch.
+            - button "Sign up" [ref=e88] [cursor=pointer]
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - link "Branch Facebook Page" [ref=e91] [cursor=pointer]:
+            - /url: https://facebook.com/branchpolitics
+            - img [ref=e92]
+          - link "Branch Instagram Page" [ref=e94] [cursor=pointer]:
+            - /url: https://instagram.com/branchpolitics
+            - img [ref=e95]
+          - link "Branch Twitter Page" [ref=e99] [cursor=pointer]:
+            - /url: https://twitter.com/branchpolitics
+            - img [ref=e100]
+          - link "Branch Medium Page" [ref=e102] [cursor=pointer]:
+            - /url: https://branchpolitics.medium.com/
+            - img [ref=e103]
+        - generic [ref=e105]:
+          - link "Get involved" [ref=e106] [cursor=pointer]:
+            - /url: https://mailchi.mp/cc989bc218bc/gardener-signup
+            - paragraph [ref=e107]: Get involved
+          - generic [ref=e108]: ·
+          - link "Terms of use" [ref=e109] [cursor=pointer]:
+            - /url: /termsofuse
+            - paragraph [ref=e110]: Terms of use
+          - generic [ref=e111]: ·
+          - link "Privacy policy" [ref=e112] [cursor=pointer]:
+            - /url: /privacy-policy
+            - paragraph [ref=e113]: Privacy policy
+          - generic [ref=e114]: ·
+          - link "About" [ref=e115] [cursor=pointer]:
+            - /url: /about
+            - paragraph [ref=e116]: About
+        - generic [ref=e117]:
+          - link "Upcoming elections" [ref=e118] [cursor=pointer]:
+            - /url: /elections
+            - paragraph [ref=e119]: Upcoming elections
+          - generic [ref=e120]: ·
+          - link "Blog" [ref=e121] [cursor=pointer]:
+            - /url: https://branchpolitics.medium.com/
+            - paragraph [ref=e122]: Blog
+          - generic [ref=e123]: ·
+          - link "Get in touch" [ref=e124] [cursor=pointer]:
+            - /url: mailto:hello@branch.chat?subject=Hello!
+            - paragraph [ref=e125]: Get in touch
+          - generic [ref=e126]: ·
+          - link "For campaigns" [ref=e127] [cursor=pointer]:
+            - /url: /campaign
+            - paragraph [ref=e128]: For campaigns
+        - button "English" [ref=e129] [cursor=pointer]:
+          - img [ref=e131]
+          - text: English
+        - paragraph [ref=e133]: © 2024 Branch | All rights reserved
+  - alert [ref=e134]

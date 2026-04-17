@@ -1,0 +1,2293 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Branch Politics Logo" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img "Branch Politics Logo" [ref=e11]
+        - link "Your ballot" [ref=e13] [cursor=pointer]:
+          - /url: /setup
+        - link "Elections" [ref=e15] [cursor=pointer]:
+          - /url: /elections
+        - link "About us" [ref=e17] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=e18]:
+        - link "Sign in" [ref=e19] [cursor=pointer]:
+          - /url: /login
+        - link "Find ballot" [ref=e20] [cursor=pointer]:
+          - /url: /setup
+          - button "Find ballot" [ref=e21]
+    - generic [ref=e22]:
+      - main "Upcoming elections in Georgia" [ref=e23]:
+        - main "elections summary main content" [ref=e25]:
+          - generic "Georgia elections" [ref=e26]:
+            - generic [ref=e27]:
+              - heading "Georgia elections" [level=1] [ref=e28]
+              - paragraph [ref=e29]: It takes more than the president to change the country, but usually, all we hear about in the news is the president.
+              - paragraph [ref=e30]: Branch's mission is to make it easy for you to cast an informed vote for every level of government, even the state and local office you may not know about.
+            - generic [ref=e31]:
+              - heading "Upcoming elections in Georgia" [level=2] [ref=e32]
+              - paragraph [ref=e33]: There currently is an election happening in Georgia. Election Day in Georgia is May 19, 2026.
+              - generic [ref=e34]:
+                - generic [ref=e35]: Current election
+                - heading "May 19, 2026" [level=2] [ref=e36]
+                - generic [ref=e37]:
+                  - paragraph [ref=e38] [cursor=pointer]:
+                    - img [ref=e39]
+                    - text: Election schedule
+                  - paragraph [ref=e41]: ·
+                  - paragraph [ref=e42] [cursor=pointer]:
+                    - img [ref=e43]
+                    - text: Subscribe to reminders
+            - generic [ref=e45]:
+              - img [ref=e46]
+              - heading "See your sample ballot" [level=2] [ref=e48]
+              - paragraph [ref=e49]: What will be on your ballot depends on where you live. Branch walks you through what will be on your ballot, what it means, and why it matters. Just click "Find your ballot" to get started.
+              - link "Find your ballot" [ref=e50] [cursor=pointer]:
+                - /url: /setup
+                - button "Find your ballot" [ref=e51]
+            - generic [ref=e52]:
+              - heading "2026 Georgia candidates" [level=2] [ref=e53]
+              - paragraph [ref=e54]: Branch has nonpartisan information on thousands of candidates running for office across the state. Click to read more about the candidates that will be on your ballot.
+              - link "View candidates" [ref=e55] [cursor=pointer]:
+                - /url: /elections/state/ga/2026-georgia-primary-election/races
+                - button "View candidates" [ref=e56]
+            - generic [ref=e57]:
+              - heading "Explore elections for these popular cities in Georgia" [level=2] [ref=e58]
+              - paragraph [ref=e59]: Click on an election below to explore Branch's nonpartisan information on thousands of candidates.
+              - list [ref=e60]:
+                - listitem [ref=e61]:
+                  - link "Abbeville" [ref=e62] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-abbeville-city
+                    - paragraph [ref=e63]: Abbeville
+                - listitem [ref=e64]:
+                  - link "Acworth" [ref=e65] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-acworth-city
+                    - paragraph [ref=e66]: Acworth
+                - listitem [ref=e67]:
+                  - link "Adairsville" [ref=e68] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-adairsville-city
+                    - paragraph [ref=e69]: Adairsville
+                - listitem [ref=e70]:
+                  - link "Adel" [ref=e71] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-adel-city
+                    - paragraph [ref=e72]: Adel
+                - listitem [ref=e73]:
+                  - link "Adrian" [ref=e74] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-adrian-city
+                    - paragraph [ref=e75]: Adrian
+                - listitem [ref=e76]:
+                  - link "Ailey" [ref=e77] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ailey-city
+                    - paragraph [ref=e78]: Ailey
+                - listitem [ref=e79]:
+                  - link "Alamo" [ref=e80] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alamo-city
+                    - paragraph [ref=e81]: Alamo
+                - listitem [ref=e82]:
+                  - link "Alapaha" [ref=e83] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alapaha-city
+                    - paragraph [ref=e84]: Alapaha
+                - listitem [ref=e85]:
+                  - link "Albany" [ref=e86] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-albany-city
+                    - paragraph [ref=e87]: Albany
+                - listitem [ref=e88]:
+                  - link "Aldora" [ref=e89] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-aldora-city
+                    - paragraph [ref=e90]: Aldora
+                - listitem [ref=e91]:
+                  - link "Allenhurst" [ref=e92] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-allenhurst-city
+                    - paragraph [ref=e93]: Allenhurst
+                - listitem [ref=e94]:
+                  - link "Allentown" [ref=e95] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-allentown-city
+                    - paragraph [ref=e96]: Allentown
+                - listitem [ref=e97]:
+                  - link "Alma" [ref=e98] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alma-city
+                    - paragraph [ref=e99]: Alma
+                - listitem [ref=e100]:
+                  - link "Alpharetta" [ref=e101] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alpharetta-city
+                    - paragraph [ref=e102]: Alpharetta
+                - listitem [ref=e103]:
+                  - link "Alston" [ref=e104] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alston-city
+                    - paragraph [ref=e105]: Alston
+                - listitem [ref=e106]:
+                  - link "Alto" [ref=e107] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-alto-city
+                    - paragraph [ref=e108]: Alto
+                - listitem [ref=e109]:
+                  - link "Ambrose" [ref=e110] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ambrose-city
+                    - paragraph [ref=e111]: Ambrose
+                - listitem [ref=e112]:
+                  - link "Americus" [ref=e113] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-americus-city
+                    - paragraph [ref=e114]: Americus
+                - listitem [ref=e115]:
+                  - link "Andersonville" [ref=e116] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-andersonville-city
+                    - paragraph [ref=e117]: Andersonville
+                - listitem [ref=e118]:
+                  - link "Arabi" [ref=e119] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-arabi-city
+                    - paragraph [ref=e120]: Arabi
+                - listitem [ref=e121]:
+                  - link "Aragon" [ref=e122] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-aragon-city
+                    - paragraph [ref=e123]: Aragon
+                - listitem [ref=e124]:
+                  - link "Arcade" [ref=e125] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-arcade-city
+                    - paragraph [ref=e126]: Arcade
+                - listitem [ref=e127]:
+                  - link "Argyle" [ref=e128] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-argyle-city
+                    - paragraph [ref=e129]: Argyle
+                - listitem [ref=e130]:
+                  - link "Arlington" [ref=e131] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-arlington-city
+                    - paragraph [ref=e132]: Arlington
+                - listitem [ref=e133]:
+                  - link "Arnoldsville" [ref=e134] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-arnoldsville-city
+                    - paragraph [ref=e135]: Arnoldsville
+                - listitem [ref=e136]:
+                  - link "Ashburn" [ref=e137] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ashburn-city
+                    - paragraph [ref=e138]: Ashburn
+                - listitem [ref=e139]:
+                  - link "Athens" [ref=e140] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-athens
+                    - paragraph [ref=e141]: Athens
+                - listitem [ref=e142]:
+                  - link "Atlanta" [ref=e143] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-atlanta
+                    - paragraph [ref=e144]: Atlanta
+                - listitem [ref=e145]:
+                  - link "Attapulgus" [ref=e146] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-attapulgus-city
+                    - paragraph [ref=e147]: Attapulgus
+                - listitem [ref=e148]:
+                  - link "Auburn" [ref=e149] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-auburn-city
+                    - paragraph [ref=e150]: Auburn
+                - listitem [ref=e151]:
+                  - link "Augusta" [ref=e152] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-augusta
+                    - paragraph [ref=e153]: Augusta
+                - listitem [ref=e154]:
+                  - link "Austell" [ref=e155] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-austell-city
+                    - paragraph [ref=e156]: Austell
+                - listitem [ref=e157]:
+                  - link "Avalon" [ref=e158] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-avalon-city
+                    - paragraph [ref=e159]: Avalon
+                - listitem [ref=e160]:
+                  - link "Avera" [ref=e161] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-avera-city
+                    - paragraph [ref=e162]: Avera
+                - listitem [ref=e163]:
+                  - link "Avondale Estates" [ref=e164] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-avondale-estates-city
+                    - paragraph [ref=e165]: Avondale Estates
+                - listitem [ref=e166]:
+                  - link "Baconton" [ref=e167] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-baconton-city
+                    - paragraph [ref=e168]: Baconton
+                - listitem [ref=e169]:
+                  - link "Bainbridge" [ref=e170] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bainbridge-city
+                    - paragraph [ref=e171]: Bainbridge
+                - listitem [ref=e172]:
+                  - link "Baldwin" [ref=e173] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-baldwin-city
+                    - paragraph [ref=e174]: Baldwin
+                - listitem [ref=e175]:
+                  - link "Ball Ground" [ref=e176] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ball-ground-city
+                    - paragraph [ref=e177]: Ball Ground
+                - listitem [ref=e178]:
+                  - link "Barnesville" [ref=e179] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-barnesville-city
+                    - paragraph [ref=e180]: Barnesville
+                - listitem [ref=e181]:
+                  - link "Bartow" [ref=e182] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bartow-city
+                    - paragraph [ref=e183]: Bartow
+                - listitem [ref=e184]:
+                  - link "Barwick" [ref=e185] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-barwick-city
+                    - paragraph [ref=e186]: Barwick
+                - listitem [ref=e187]:
+                  - link "Baxley" [ref=e188] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-baxley-city
+                    - paragraph [ref=e189]: Baxley
+                - listitem [ref=e190]:
+                  - link "Bellville" [ref=e191] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bellville-city
+                    - paragraph [ref=e192]: Bellville
+                - listitem [ref=e193]:
+                  - link "Berkeley Lake" [ref=e194] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-berkeley-lake-city
+                    - paragraph [ref=e195]: Berkeley Lake
+                - listitem [ref=e196]:
+                  - link "Berlin" [ref=e197] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-berlin-city
+                    - paragraph [ref=e198]: Berlin
+                - listitem [ref=e199]:
+                  - link "Bethlehem" [ref=e200] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bethlehem-city
+                    - paragraph [ref=e201]: Bethlehem
+                - listitem [ref=e202]:
+                  - link "Between" [ref=e203] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-between-city
+                    - paragraph [ref=e204]: Between
+                - listitem [ref=e205]:
+                  - link "Bishop" [ref=e206] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bishop-city
+                    - paragraph [ref=e207]: Bishop
+                - listitem [ref=e208]:
+                  - link "Blackshear" [ref=e209] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-blackshear-city
+                    - paragraph [ref=e210]: Blackshear
+                - listitem [ref=e211]:
+                  - link "Blairsville" [ref=e212] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-blairsville-city
+                    - paragraph [ref=e213]: Blairsville
+                - listitem [ref=e214]:
+                  - link "Blakely" [ref=e215] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-blakely-city
+                    - paragraph [ref=e216]: Blakely
+                - listitem [ref=e217]:
+                  - link "Bloomingdale" [ref=e218] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bloomingdale-city
+                    - paragraph [ref=e219]: Bloomingdale
+                - listitem [ref=e220]:
+                  - link "Blue Ridge" [ref=e221] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-blue-ridge-city
+                    - paragraph [ref=e222]: Blue Ridge
+                - listitem [ref=e223]:
+                  - link "Bluffton" [ref=e224] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bluffton-city
+                    - paragraph [ref=e225]: Bluffton
+                - listitem [ref=e226]:
+                  - link "Blythe" [ref=e227] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-blythe-city
+                    - paragraph [ref=e228]: Blythe
+                - listitem [ref=e229]:
+                  - link "Bogart" [ref=e230] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bogart-city
+                    - paragraph [ref=e231]: Bogart
+                - listitem [ref=e232]:
+                  - link "Boston" [ref=e233] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-boston-city
+                    - paragraph [ref=e234]: Boston
+                - listitem [ref=e235]:
+                  - link "Bostwick" [ref=e236] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bostwick-city
+                    - paragraph [ref=e237]: Bostwick
+                - listitem [ref=e238]:
+                  - link "Bowdon" [ref=e239] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bowdon-city
+                    - paragraph [ref=e240]: Bowdon
+                - listitem [ref=e241]:
+                  - link "Bowersville" [ref=e242] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bowersville-city
+                    - paragraph [ref=e243]: Bowersville
+                - listitem [ref=e244]:
+                  - link "Bowman" [ref=e245] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bowman-city
+                    - paragraph [ref=e246]: Bowman
+                - listitem [ref=e247]:
+                  - link "Braselton" [ref=e248] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-braselton-city
+                    - paragraph [ref=e249]: Braselton
+                - listitem [ref=e250]:
+                  - link "Braswell" [ref=e251] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-braswell-city
+                    - paragraph [ref=e252]: Braswell
+                - listitem [ref=e253]:
+                  - link "Bremen" [ref=e254] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bremen-city
+                    - paragraph [ref=e255]: Bremen
+                - listitem [ref=e256]:
+                  - link "Brinson" [ref=e257] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-brinson-city
+                    - paragraph [ref=e258]: Brinson
+                - listitem [ref=e259]:
+                  - link "Bronwood" [ref=e260] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-bronwood-city
+                    - paragraph [ref=e261]: Bronwood
+                - listitem [ref=e262]:
+                  - link "Brookhaven" [ref=e263] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-brookhaven
+                    - paragraph [ref=e264]: Brookhaven
+                - listitem [ref=e265]:
+                  - link "Brooklet" [ref=e266] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-brooklet-city
+                    - paragraph [ref=e267]: Brooklet
+                - listitem [ref=e268]:
+                  - link "Brooks" [ref=e269] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-brooks-city
+                    - paragraph [ref=e270]: Brooks
+                - listitem [ref=e271]:
+                  - link "Broxton" [ref=e272] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-broxton-city
+                    - paragraph [ref=e273]: Broxton
+                - listitem [ref=e274]:
+                  - link "Brunswick" [ref=e275] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-brunswick-city
+                    - paragraph [ref=e276]: Brunswick
+                - listitem [ref=e277]:
+                  - link "Buchanan" [ref=e278] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-buchanan-city
+                    - paragraph [ref=e279]: Buchanan
+                - listitem [ref=e280]:
+                  - link "Buckhead" [ref=e281] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-buckhead-city
+                    - paragraph [ref=e282]: Buckhead
+                - listitem [ref=e283]:
+                  - link "Buena Vista" [ref=e284] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-buena-vista-city
+                    - paragraph [ref=e285]: Buena Vista
+                - listitem [ref=e286]:
+                  - link "Buford" [ref=e287] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-buford-city
+                    - paragraph [ref=e288]: Buford
+                - listitem [ref=e289]:
+                  - link "Butler" [ref=e290] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-butler-city
+                    - paragraph [ref=e291]: Butler
+                - listitem [ref=e292]:
+                  - link "Byromville" [ref=e293] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-byromville-city
+                    - paragraph [ref=e294]: Byromville
+                - listitem [ref=e295]:
+                  - link "Byron" [ref=e296] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-byron-city
+                    - paragraph [ref=e297]: Byron
+                - listitem [ref=e298]:
+                  - link "Cadwell" [ref=e299] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cadwell-city
+                    - paragraph [ref=e300]: Cadwell
+                - listitem [ref=e301]:
+                  - link "Cairo" [ref=e302] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cairo-city
+                    - paragraph [ref=e303]: Cairo
+                - listitem [ref=e304]:
+                  - link "Calhoun" [ref=e305] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-calhoun-city
+                    - paragraph [ref=e306]: Calhoun
+                - listitem [ref=e307]:
+                  - link "Camak" [ref=e308] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-camak-city
+                    - paragraph [ref=e309]: Camak
+                - listitem [ref=e310]:
+                  - link "Camilla" [ref=e311] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-camilla-city
+                    - paragraph [ref=e312]: Camilla
+                - listitem [ref=e313]:
+                  - link "Canon" [ref=e314] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-canon-city
+                    - paragraph [ref=e315]: Canon
+                - listitem [ref=e316]:
+                  - link "Canton" [ref=e317] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-canton-city
+                    - paragraph [ref=e318]: Canton
+                - listitem [ref=e319]:
+                  - link "Carl" [ref=e320] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-carl-city
+                    - paragraph [ref=e321]: Carl
+                - listitem [ref=e322]:
+                  - link "Carlton" [ref=e323] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-carlton-city
+                    - paragraph [ref=e324]: Carlton
+                - listitem [ref=e325]:
+                  - link "Carnesville" [ref=e326] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-carnesville-city
+                    - paragraph [ref=e327]: Carnesville
+                - listitem [ref=e328]:
+                  - link "Carrollton" [ref=e329] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-carrollton-city
+                    - paragraph [ref=e330]: Carrollton
+                - listitem [ref=e331]:
+                  - link "Cartersville" [ref=e332] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cartersville-city
+                    - paragraph [ref=e333]: Cartersville
+                - listitem [ref=e334]:
+                  - link "Cave Spring" [ref=e335] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cave-spring-city
+                    - paragraph [ref=e336]: Cave Spring
+                - listitem [ref=e337]:
+                  - link "Cecil" [ref=e338] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cecil-city
+                    - paragraph [ref=e339]: Cecil
+                - listitem [ref=e340]:
+                  - link "Cedartown" [ref=e341] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cedartown-city
+                    - paragraph [ref=e342]: Cedartown
+                - listitem [ref=e343]:
+                  - link "Centerville" [ref=e344] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-centerville-city
+                    - paragraph [ref=e345]: Centerville
+                - listitem [ref=e346]:
+                  - link "Centralhatchee" [ref=e347] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-centralhatchee-city
+                    - paragraph [ref=e348]: Centralhatchee
+                - listitem [ref=e349]:
+                  - link "Chamblee" [ref=e350] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chamblee-city
+                    - paragraph [ref=e351]: Chamblee
+                - listitem [ref=e352]:
+                  - link "Chatsworth" [ref=e353] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chatsworth-city
+                    - paragraph [ref=e354]: Chatsworth
+                - listitem [ref=e355]:
+                  - link "Chattahoochee Hills" [ref=e356] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chattahoochee-hills-city
+                    - paragraph [ref=e357]: Chattahoochee Hills
+                - listitem [ref=e358]:
+                  - link "Chauncey" [ref=e359] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chauncey-city
+                    - paragraph [ref=e360]: Chauncey
+                - listitem [ref=e361]:
+                  - link "Chester" [ref=e362] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chester-city
+                    - paragraph [ref=e363]: Chester
+                - listitem [ref=e364]:
+                  - link "Chickamauga" [ref=e365] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-chickamauga-city
+                    - paragraph [ref=e366]: Chickamauga
+                - listitem [ref=e367]:
+                  - link "Clarkesville" [ref=e368] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-clarkesville-city
+                    - paragraph [ref=e369]: Clarkesville
+                - listitem [ref=e370]:
+                  - link "Clarkston" [ref=e371] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-clarkston-city
+                    - paragraph [ref=e372]: Clarkston
+                - listitem [ref=e373]:
+                  - link "Claxton" [ref=e374] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-claxton-city
+                    - paragraph [ref=e375]: Claxton
+                - listitem [ref=e376]:
+                  - link "Clayton" [ref=e377] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-clayton-city
+                    - paragraph [ref=e378]: Clayton
+                - listitem [ref=e379]:
+                  - link "Clermont" [ref=e380] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-clermont-city
+                    - paragraph [ref=e381]: Clermont
+                - listitem [ref=e382]:
+                  - link "Cleveland" [ref=e383] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cleveland-city
+                    - paragraph [ref=e384]: Cleveland
+                - listitem [ref=e385]:
+                  - link "Climax" [ref=e386] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-climax-city
+                    - paragraph [ref=e387]: Climax
+                - listitem [ref=e388]:
+                  - link "Cobbtown" [ref=e389] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cobbtown-city
+                    - paragraph [ref=e390]: Cobbtown
+                - listitem [ref=e391]:
+                  - link "Cochran" [ref=e392] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cochran-city
+                    - paragraph [ref=e393]: Cochran
+                - listitem [ref=e394]:
+                  - link "Cohutta" [ref=e395] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cohutta-city
+                    - paragraph [ref=e396]: Cohutta
+                - listitem [ref=e397]:
+                  - link "Colbert" [ref=e398] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-colbert-city
+                    - paragraph [ref=e399]: Colbert
+                - listitem [ref=e400]:
+                  - link "College Park" [ref=e401] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-college-park-city
+                    - paragraph [ref=e402]: College Park
+                - listitem [ref=e403]:
+                  - link "Collins" [ref=e404] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-collins-city
+                    - paragraph [ref=e405]: Collins
+                - listitem [ref=e406]:
+                  - link "Colquitt" [ref=e407] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-colquitt-city
+                    - paragraph [ref=e408]: Colquitt
+                - listitem [ref=e409]:
+                  - link "Columbus" [ref=e410] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-columbus-city
+                    - paragraph [ref=e411]: Columbus
+                - listitem [ref=e412]:
+                  - link "Comer" [ref=e413] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-comer-city
+                    - paragraph [ref=e414]: Comer
+                - listitem [ref=e415]:
+                  - link "Commerce" [ref=e416] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-commerce-city
+                    - paragraph [ref=e417]: Commerce
+                - listitem [ref=e418]:
+                  - link "Concord" [ref=e419] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-concord-city
+                    - paragraph [ref=e420]: Concord
+                - listitem [ref=e421]:
+                  - link "Conyers" [ref=e422] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-conyers-city
+                    - paragraph [ref=e423]: Conyers
+                - listitem [ref=e424]:
+                  - link "Coolidge" [ref=e425] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-coolidge-city
+                    - paragraph [ref=e426]: Coolidge
+                - listitem [ref=e427]:
+                  - link "Cordele" [ref=e428] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cordele-city
+                    - paragraph [ref=e429]: Cordele
+                - listitem [ref=e430]:
+                  - link "Cornelia" [ref=e431] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cornelia-city
+                    - paragraph [ref=e432]: Cornelia
+                - listitem [ref=e433]:
+                  - link "Covington" [ref=e434] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-covington-city
+                    - paragraph [ref=e435]: Covington
+                - listitem [ref=e436]:
+                  - link "Crawford" [ref=e437] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-crawford-city
+                    - paragraph [ref=e438]: Crawford
+                - listitem [ref=e439]:
+                  - link "Crawfordville" [ref=e440] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-crawfordville-city
+                    - paragraph [ref=e441]: Crawfordville
+                - listitem [ref=e442]:
+                  - link "Culloden" [ref=e443] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-culloden-city
+                    - paragraph [ref=e444]: Culloden
+                - listitem [ref=e445]:
+                  - link "Cumming" [ref=e446] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cumming-city
+                    - paragraph [ref=e447]: Cumming
+                - listitem [ref=e448]:
+                  - link "Cusseta" [ref=e449] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-cusseta
+                    - paragraph [ref=e450]: Cusseta
+                - listitem [ref=e451]:
+                  - link "Cuthbert" [ref=e452] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-cuthbert-city
+                    - paragraph [ref=e453]: Cuthbert
+                - listitem [ref=e454]:
+                  - link "Dacula" [ref=e455] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dacula-city
+                    - paragraph [ref=e456]: Dacula
+                - listitem [ref=e457]:
+                  - link "Dahlonega" [ref=e458] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dahlonega-city
+                    - paragraph [ref=e459]: Dahlonega
+                - listitem [ref=e460]:
+                  - link "Daisy" [ref=e461] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-daisy-city
+                    - paragraph [ref=e462]: Daisy
+                - listitem [ref=e463]:
+                  - link "Dallas" [ref=e464] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dallas-city
+                    - paragraph [ref=e465]: Dallas
+                - listitem [ref=e466]:
+                  - link "Dalton" [ref=e467] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dalton-city
+                    - paragraph [ref=e468]: Dalton
+                - listitem [ref=e469]:
+                  - link "Damascus" [ref=e470] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-damascus-city
+                    - paragraph [ref=e471]: Damascus
+                - listitem [ref=e472]:
+                  - link "Danielsville" [ref=e473] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-danielsville-city
+                    - paragraph [ref=e474]: Danielsville
+                - listitem [ref=e475]:
+                  - link "Danville" [ref=e476] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-danville-city
+                    - paragraph [ref=e477]: Danville
+                - listitem [ref=e478]:
+                  - link "Darien" [ref=e479] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-darien-city
+                    - paragraph [ref=e480]: Darien
+                - listitem [ref=e481]:
+                  - link "Dasher" [ref=e482] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dasher-city
+                    - paragraph [ref=e483]: Dasher
+                - listitem [ref=e484]:
+                  - link "Davisboro" [ref=e485] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-davisboro-city
+                    - paragraph [ref=e486]: Davisboro
+                - listitem [ref=e487]:
+                  - link "Dawson" [ref=e488] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dawson-city
+                    - paragraph [ref=e489]: Dawson
+                - listitem [ref=e490]:
+                  - link "Dawsonville" [ref=e491] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dawsonville-city
+                    - paragraph [ref=e492]: Dawsonville
+                - listitem [ref=e493]:
+                  - link "De Soto" [ref=e494] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-de-soto-city
+                    - paragraph [ref=e495]: De Soto
+                - listitem [ref=e496]:
+                  - link "Dearing" [ref=e497] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dearing-city
+                    - paragraph [ref=e498]: Dearing
+                - listitem [ref=e499]:
+                  - link "Decatur" [ref=e500] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-decatur-city
+                    - paragraph [ref=e501]: Decatur
+                - listitem [ref=e502]:
+                  - link "Deepstep" [ref=e503] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-deepstep-city
+                    - paragraph [ref=e504]: Deepstep
+                - listitem [ref=e505]:
+                  - link "Demorest" [ref=e506] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-demorest-city
+                    - paragraph [ref=e507]: Demorest
+                - listitem [ref=e508]:
+                  - link "Denton" [ref=e509] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-denton-city
+                    - paragraph [ref=e510]: Denton
+                - listitem [ref=e511]:
+                  - link "Dexter" [ref=e512] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dexter-city
+                    - paragraph [ref=e513]: Dexter
+                - listitem [ref=e514]:
+                  - link "Dillard" [ref=e515] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dillard-city
+                    - paragraph [ref=e516]: Dillard
+                - listitem [ref=e517]:
+                  - link "Doerun" [ref=e518] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-doerun-city
+                    - paragraph [ref=e519]: Doerun
+                - listitem [ref=e520]:
+                  - link "Donalsonville" [ref=e521] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-donalsonville-city
+                    - paragraph [ref=e522]: Donalsonville
+                - listitem [ref=e523]:
+                  - link "Dooling" [ref=e524] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dooling-city
+                    - paragraph [ref=e525]: Dooling
+                - listitem [ref=e526]:
+                  - link "Doraville" [ref=e527] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-doraville-city
+                    - paragraph [ref=e528]: Doraville
+                - listitem [ref=e529]:
+                  - link "Douglas" [ref=e530] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-douglas-city
+                    - paragraph [ref=e531]: Douglas
+                - listitem [ref=e532]:
+                  - link "Douglasville" [ref=e533] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-douglasville-city
+                    - paragraph [ref=e534]: Douglasville
+                - listitem [ref=e535]:
+                  - link "Du Pont" [ref=e536] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-du-pont-city
+                    - paragraph [ref=e537]: Du Pont
+                - listitem [ref=e538]:
+                  - link "Dublin" [ref=e539] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dublin-city
+                    - paragraph [ref=e540]: Dublin
+                - listitem [ref=e541]:
+                  - link "Dudley" [ref=e542] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dudley-city
+                    - paragraph [ref=e543]: Dudley
+                - listitem [ref=e544]:
+                  - link "Duluth" [ref=e545] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-duluth-city
+                    - paragraph [ref=e546]: Duluth
+                - listitem [ref=e547]:
+                  - link "Dunwoody" [ref=e548] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-dunwoody-city
+                    - paragraph [ref=e549]: Dunwoody
+                - listitem [ref=e550]:
+                  - link "East Dublin" [ref=e551] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-east-dublin-city
+                    - paragraph [ref=e552]: East Dublin
+                - listitem [ref=e553]:
+                  - link "East Ellijay" [ref=e554] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-east-ellijay-city
+                    - paragraph [ref=e555]: East Ellijay
+                - listitem [ref=e556]:
+                  - link "East Point" [ref=e557] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-east-point
+                    - paragraph [ref=e558]: East Point
+                - listitem [ref=e559]:
+                  - link "Eastman" [ref=e560] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-eastman-city
+                    - paragraph [ref=e561]: Eastman
+                - listitem [ref=e562]:
+                  - link "Eatonton" [ref=e563] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-eatonton-city
+                    - paragraph [ref=e564]: Eatonton
+                - listitem [ref=e565]:
+                  - link "Edge Hill" [ref=e566] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-edge-hill-city
+                    - paragraph [ref=e567]: Edge Hill
+                - listitem [ref=e568]:
+                  - link "Edison" [ref=e569] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-edison-city
+                    - paragraph [ref=e570]: Edison
+                - listitem [ref=e571]:
+                  - link "Elberton" [ref=e572] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-elberton-city
+                    - paragraph [ref=e573]: Elberton
+                - listitem [ref=e574]:
+                  - link "Ellaville" [ref=e575] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ellaville-city
+                    - paragraph [ref=e576]: Ellaville
+                - listitem [ref=e577]:
+                  - link "Ellenton" [ref=e578] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ellenton-city
+                    - paragraph [ref=e579]: Ellenton
+                - listitem [ref=e580]:
+                  - link "Ellijay" [ref=e581] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ellijay-city
+                    - paragraph [ref=e582]: Ellijay
+                - listitem [ref=e583]:
+                  - link "Emerson" [ref=e584] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-emerson-city
+                    - paragraph [ref=e585]: Emerson
+                - listitem [ref=e586]:
+                  - link "Enigma" [ref=e587] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-enigma-city
+                    - paragraph [ref=e588]: Enigma
+                - listitem [ref=e589]:
+                  - link "Ephesus" [ref=e590] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ephesus-city
+                    - paragraph [ref=e591]: Ephesus
+                - listitem [ref=e592]:
+                  - link "Eton" [ref=e593] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-eton-city
+                    - paragraph [ref=e594]: Eton
+                - listitem [ref=e595]:
+                  - link "Euharlee" [ref=e596] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-euharlee-city
+                    - paragraph [ref=e597]: Euharlee
+                - listitem [ref=e598]:
+                  - link "Fairburn" [ref=e599] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fairburn-city
+                    - paragraph [ref=e600]: Fairburn
+                - listitem [ref=e601]:
+                  - link "Fairmount" [ref=e602] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fairmount-city
+                    - paragraph [ref=e603]: Fairmount
+                - listitem [ref=e604]:
+                  - link "Fargo" [ref=e605] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fargo-city
+                    - paragraph [ref=e606]: Fargo
+                - listitem [ref=e607]:
+                  - link "Fayetteville" [ref=e608] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fayetteville-city
+                    - paragraph [ref=e609]: Fayetteville
+                - listitem [ref=e610]:
+                  - link "Fitzgerald" [ref=e611] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fitzgerald-city
+                    - paragraph [ref=e612]: Fitzgerald
+                - listitem [ref=e613]:
+                  - link "Flemington" [ref=e614] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-flemington-city
+                    - paragraph [ref=e615]: Flemington
+                - listitem [ref=e616]:
+                  - link "Flovilla" [ref=e617] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-flovilla-city
+                    - paragraph [ref=e618]: Flovilla
+                - listitem [ref=e619]:
+                  - link "Flowery Branch" [ref=e620] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-flowery-branch-city
+                    - paragraph [ref=e621]: Flowery Branch
+                - listitem [ref=e622]:
+                  - link "Folkston" [ref=e623] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-folkston-city
+                    - paragraph [ref=e624]: Folkston
+                - listitem [ref=e625]:
+                  - link "Forest Park" [ref=e626] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-forest-park-city
+                    - paragraph [ref=e627]: Forest Park
+                - listitem [ref=e628]:
+                  - link "Forsyth" [ref=e629] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-forsyth-city
+                    - paragraph [ref=e630]: Forsyth
+                - listitem [ref=e631]:
+                  - link "Fort Gaines" [ref=e632] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fort-gaines-city
+                    - paragraph [ref=e633]: Fort Gaines
+                - listitem [ref=e634]:
+                  - link "Fort Oglethorpe" [ref=e635] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fort-oglethorpe-city
+                    - paragraph [ref=e636]: Fort Oglethorpe
+                - listitem [ref=e637]:
+                  - link "Fort Valley" [ref=e638] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-fort-valley-city
+                    - paragraph [ref=e639]: Fort Valley
+                - listitem [ref=e640]:
+                  - link "Franklin" [ref=e641] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-franklin-city
+                    - paragraph [ref=e642]: Franklin
+                - listitem [ref=e643]:
+                  - link "Franklin Springs" [ref=e644] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-franklin-springs-city
+                    - paragraph [ref=e645]: Franklin Springs
+                - listitem [ref=e646]:
+                  - link "Funston" [ref=e647] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-funston-city
+                    - paragraph [ref=e648]: Funston
+                - listitem [ref=e649]:
+                  - link "Gainesville" [ref=e650] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gainesville-city
+                    - paragraph [ref=e651]: Gainesville
+                - listitem [ref=e652]:
+                  - link "Garden City" [ref=e653] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-garden-city-city
+                    - paragraph [ref=e654]: Garden City
+                - listitem [ref=e655]:
+                  - link "Garfield" [ref=e656] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-garfield-city
+                    - paragraph [ref=e657]: Garfield
+                - listitem [ref=e658]:
+                  - link "Gay" [ref=e659] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gay-city
+                    - paragraph [ref=e660]: Gay
+                - listitem [ref=e661]:
+                  - link "Geneva" [ref=e662] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-geneva-city
+                    - paragraph [ref=e663]: Geneva
+                - listitem [ref=e664]:
+                  - link "Georgetown" [ref=e665] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-georgetown
+                    - paragraph [ref=e666]: Georgetown
+                - listitem [ref=e667]:
+                  - link "Gibson" [ref=e668] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gibson-city
+                    - paragraph [ref=e669]: Gibson
+                - listitem [ref=e670]:
+                  - link "Gillsville" [ref=e671] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gillsville-city
+                    - paragraph [ref=e672]: Gillsville
+                - listitem [ref=e673]:
+                  - link "Girard" [ref=e674] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-girard-city
+                    - paragraph [ref=e675]: Girard
+                - listitem [ref=e676]:
+                  - link "Glennville" [ref=e677] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-glennville-city
+                    - paragraph [ref=e678]: Glennville
+                - listitem [ref=e679]:
+                  - link "Glenwood" [ref=e680] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-glenwood-city
+                    - paragraph [ref=e681]: Glenwood
+                - listitem [ref=e682]:
+                  - link "Good Hope" [ref=e683] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-good-hope-city
+                    - paragraph [ref=e684]: Good Hope
+                - listitem [ref=e685]:
+                  - link "Gordon" [ref=e686] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gordon-city
+                    - paragraph [ref=e687]: Gordon
+                - listitem [ref=e688]:
+                  - link "Graham" [ref=e689] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-graham-city
+                    - paragraph [ref=e690]: Graham
+                - listitem [ref=e691]:
+                  - link "Grantville" [ref=e692] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-grantville-city
+                    - paragraph [ref=e693]: Grantville
+                - listitem [ref=e694]:
+                  - link "Gray" [ref=e695] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gray-city
+                    - paragraph [ref=e696]: Gray
+                - listitem [ref=e697]:
+                  - link "Grayson" [ref=e698] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-grayson-city
+                    - paragraph [ref=e699]: Grayson
+                - listitem [ref=e700]:
+                  - link "Greensboro" [ref=e701] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-greensboro-city
+                    - paragraph [ref=e702]: Greensboro
+                - listitem [ref=e703]:
+                  - link "Greenville" [ref=e704] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-greenville-city
+                    - paragraph [ref=e705]: Greenville
+                - listitem [ref=e706]:
+                  - link "Griffin" [ref=e707] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-griffin-city
+                    - paragraph [ref=e708]: Griffin
+                - listitem [ref=e709]:
+                  - link "Grovetown" [ref=e710] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-grovetown-city
+                    - paragraph [ref=e711]: Grovetown
+                - listitem [ref=e712]:
+                  - link "Gumbranch" [ref=e713] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-gumbranch-city
+                    - paragraph [ref=e714]: Gumbranch
+                - listitem [ref=e715]:
+                  - link "Guyton" [ref=e716] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-guyton-city
+                    - paragraph [ref=e717]: Guyton
+                - listitem [ref=e718]:
+                  - link "Hagan" [ref=e719] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hagan-city
+                    - paragraph [ref=e720]: Hagan
+                - listitem [ref=e721]:
+                  - link "Hahira" [ref=e722] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hahira-city
+                    - paragraph [ref=e723]: Hahira
+                - listitem [ref=e724]:
+                  - link "Hamilton" [ref=e725] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hamilton-city
+                    - paragraph [ref=e726]: Hamilton
+                - listitem [ref=e727]:
+                  - link "Hampton" [ref=e728] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hampton-city
+                    - paragraph [ref=e729]: Hampton
+                - listitem [ref=e730]:
+                  - link "Hapeville" [ref=e731] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hapeville-city
+                    - paragraph [ref=e732]: Hapeville
+                - listitem [ref=e733]:
+                  - link "Haralson" [ref=e734] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-haralson-city
+                    - paragraph [ref=e735]: Haralson
+                - listitem [ref=e736]:
+                  - link "Harlem" [ref=e737] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-harlem-city
+                    - paragraph [ref=e738]: Harlem
+                - listitem [ref=e739]:
+                  - link "Harrison" [ref=e740] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-harrison-city
+                    - paragraph [ref=e741]: Harrison
+                - listitem [ref=e742]:
+                  - link "Hartwell" [ref=e743] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hartwell-city
+                    - paragraph [ref=e744]: Hartwell
+                - listitem [ref=e745]:
+                  - link "Hawkinsville" [ref=e746] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hawkinsville-city
+                    - paragraph [ref=e747]: Hawkinsville
+                - listitem [ref=e748]:
+                  - link "Hazlehurst" [ref=e749] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hazlehurst-city
+                    - paragraph [ref=e750]: Hazlehurst
+                - listitem [ref=e751]:
+                  - link "Helen" [ref=e752] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-helen-city
+                    - paragraph [ref=e753]: Helen
+                - listitem [ref=e754]:
+                  - link "Helena" [ref=e755] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-helena-city
+                    - paragraph [ref=e756]: Helena
+                - listitem [ref=e757]:
+                  - link "Hephzibah" [ref=e758] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hephzibah-city
+                    - paragraph [ref=e759]: Hephzibah
+                - listitem [ref=e760]:
+                  - link "Hiawassee" [ref=e761] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hiawassee-city
+                    - paragraph [ref=e762]: Hiawassee
+                - listitem [ref=e763]:
+                  - link "Higgston" [ref=e764] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-higgston-city
+                    - paragraph [ref=e765]: Higgston
+                - listitem [ref=e766]:
+                  - link "Hiltonia" [ref=e767] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hiltonia-city
+                    - paragraph [ref=e768]: Hiltonia
+                - listitem [ref=e769]:
+                  - link "Hinesville" [ref=e770] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hinesville-city
+                    - paragraph [ref=e771]: Hinesville
+                - listitem [ref=e772]:
+                  - link "Hiram" [ref=e773] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hiram-city
+                    - paragraph [ref=e774]: Hiram
+                - listitem [ref=e775]:
+                  - link "Hoboken" [ref=e776] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hoboken-city
+                    - paragraph [ref=e777]: Hoboken
+                - listitem [ref=e778]:
+                  - link "Hogansville" [ref=e779] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hogansville-city
+                    - paragraph [ref=e780]: Hogansville
+                - listitem [ref=e781]:
+                  - link "Holly Springs" [ref=e782] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-holly-springs-city
+                    - paragraph [ref=e783]: Holly Springs
+                - listitem [ref=e784]:
+                  - link "Homeland" [ref=e785] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-homeland-city
+                    - paragraph [ref=e786]: Homeland
+                - listitem [ref=e787]:
+                  - link "Homer" [ref=e788] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-homer-city
+                    - paragraph [ref=e789]: Homer
+                - listitem [ref=e790]:
+                  - link "Homerville" [ref=e791] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-homerville-city
+                    - paragraph [ref=e792]: Homerville
+                - listitem [ref=e793]:
+                  - link "Hoschton" [ref=e794] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hoschton-city
+                    - paragraph [ref=e795]: Hoschton
+                - listitem [ref=e796]:
+                  - link "Hull" [ref=e797] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-hull-city
+                    - paragraph [ref=e798]: Hull
+                - listitem [ref=e799]:
+                  - link "Ideal" [ref=e800] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ideal-city
+                    - paragraph [ref=e801]: Ideal
+                - listitem [ref=e802]:
+                  - link "Ila" [ref=e803] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ila-city
+                    - paragraph [ref=e804]: Ila
+                - listitem [ref=e805]:
+                  - link "Iron City" [ref=e806] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-iron-city-city
+                    - paragraph [ref=e807]: Iron City
+                - listitem [ref=e808]:
+                  - link "Irwinton" [ref=e809] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-irwinton-city
+                    - paragraph [ref=e810]: Irwinton
+                - listitem [ref=e811]:
+                  - link "Ivey" [ref=e812] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ivey-city
+                    - paragraph [ref=e813]: Ivey
+                - listitem [ref=e814]:
+                  - link "Jackson" [ref=e815] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jackson-city
+                    - paragraph [ref=e816]: Jackson
+                - listitem [ref=e817]:
+                  - link "Jacksonville" [ref=e818] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jacksonville-city
+                    - paragraph [ref=e819]: Jacksonville
+                - listitem [ref=e820]:
+                  - link "Jakin" [ref=e821] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jakin-city
+                    - paragraph [ref=e822]: Jakin
+                - listitem [ref=e823]:
+                  - link "Jasper" [ref=e824] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jasper-city
+                    - paragraph [ref=e825]: Jasper
+                - listitem [ref=e826]:
+                  - link "Jefferson" [ref=e827] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jefferson-city
+                    - paragraph [ref=e828]: Jefferson
+                - listitem [ref=e829]:
+                  - link "Jeffersonville" [ref=e830] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jeffersonville-city
+                    - paragraph [ref=e831]: Jeffersonville
+                - listitem [ref=e832]:
+                  - link "Jenkinsburg" [ref=e833] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jenkinsburg-city
+                    - paragraph [ref=e834]: Jenkinsburg
+                - listitem [ref=e835]:
+                  - link "Jersey" [ref=e836] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jersey-city
+                    - paragraph [ref=e837]: Jersey
+                - listitem [ref=e838]:
+                  - link "Jesup" [ref=e839] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jesup-city
+                    - paragraph [ref=e840]: Jesup
+                - listitem [ref=e841]:
+                  - link "Johns Creek" [ref=e842] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-johns-creek-city
+                    - paragraph [ref=e843]: Johns Creek
+                - listitem [ref=e844]:
+                  - link "Jonesboro" [ref=e845] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-jonesboro-city
+                    - paragraph [ref=e846]: Jonesboro
+                - listitem [ref=e847]:
+                  - link "Junction City" [ref=e848] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-junction-city-city
+                    - paragraph [ref=e849]: Junction City
+                - listitem [ref=e850]:
+                  - link "Kennesaw" [ref=e851] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-kennesaw-city
+                    - paragraph [ref=e852]: Kennesaw
+                - listitem [ref=e853]:
+                  - link "Keysville" [ref=e854] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-keysville-city
+                    - paragraph [ref=e855]: Keysville
+                - listitem [ref=e856]:
+                  - link "Kingsland" [ref=e857] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-kingsland-city
+                    - paragraph [ref=e858]: Kingsland
+                - listitem [ref=e859]:
+                  - link "Kingston" [ref=e860] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-kingston-city
+                    - paragraph [ref=e861]: Kingston
+                - listitem [ref=e862]:
+                  - link "Kite" [ref=e863] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-kite-city
+                    - paragraph [ref=e864]: Kite
+                - listitem [ref=e865]:
+                  - link "LaFayette" [ref=e866] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lafayette-city
+                    - paragraph [ref=e867]: LaFayette
+                - listitem [ref=e868]:
+                  - link "LaGrange" [ref=e869] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lagrange-city
+                    - paragraph [ref=e870]: LaGrange
+                - listitem [ref=e871]:
+                  - link "Lake City" [ref=e872] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lake-city-city
+                    - paragraph [ref=e873]: Lake City
+                - listitem [ref=e874]:
+                  - link "Lake Park" [ref=e875] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lake-park-city
+                    - paragraph [ref=e876]: Lake Park
+                - listitem [ref=e877]:
+                  - link "Lakeland" [ref=e878] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lakeland-city
+                    - paragraph [ref=e879]: Lakeland
+                - listitem [ref=e880]:
+                  - link "Lavonia" [ref=e881] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lavonia-city
+                    - paragraph [ref=e882]: Lavonia
+                - listitem [ref=e883]:
+                  - link "Lawrenceville" [ref=e884] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lawrenceville-city
+                    - paragraph [ref=e885]: Lawrenceville
+                - listitem [ref=e886]:
+                  - link "Leary" [ref=e887] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-leary-city
+                    - paragraph [ref=e888]: Leary
+                - listitem [ref=e889]:
+                  - link "Leesburg" [ref=e890] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-leesburg-city
+                    - paragraph [ref=e891]: Leesburg
+                - listitem [ref=e892]:
+                  - link "Lenox" [ref=e893] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lenox-city
+                    - paragraph [ref=e894]: Lenox
+                - listitem [ref=e895]:
+                  - link "Leslie" [ref=e896] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-leslie-city
+                    - paragraph [ref=e897]: Leslie
+                - listitem [ref=e898]:
+                  - link "Lexington" [ref=e899] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lexington-city
+                    - paragraph [ref=e900]: Lexington
+                - listitem [ref=e901]:
+                  - link "Lilburn" [ref=e902] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lilburn-city
+                    - paragraph [ref=e903]: Lilburn
+                - listitem [ref=e904]:
+                  - link "Lilly" [ref=e905] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lilly-city
+                    - paragraph [ref=e906]: Lilly
+                - listitem [ref=e907]:
+                  - link "Lincolnton" [ref=e908] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lincolnton-city
+                    - paragraph [ref=e909]: Lincolnton
+                - listitem [ref=e910]:
+                  - link "Lithonia" [ref=e911] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lithonia-city
+                    - paragraph [ref=e912]: Lithonia
+                - listitem [ref=e913]:
+                  - link "Locust Grove" [ref=e914] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-locust-grove-city
+                    - paragraph [ref=e915]: Locust Grove
+                - listitem [ref=e916]:
+                  - link "Loganville" [ref=e917] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-loganville-city
+                    - paragraph [ref=e918]: Loganville
+                - listitem [ref=e919]:
+                  - link "Lone Oak" [ref=e920] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lone-oak-city
+                    - paragraph [ref=e921]: Lone Oak
+                - listitem [ref=e922]:
+                  - link "Lookout Mountain" [ref=e923] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lookout-mountain-city
+                    - paragraph [ref=e924]: Lookout Mountain
+                - listitem [ref=e925]:
+                  - link "Louisville" [ref=e926] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-louisville-city
+                    - paragraph [ref=e927]: Louisville
+                - listitem [ref=e928]:
+                  - link "Lovejoy" [ref=e929] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lovejoy-city
+                    - paragraph [ref=e930]: Lovejoy
+                - listitem [ref=e931]:
+                  - link "Ludowici" [ref=e932] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ludowici-city
+                    - paragraph [ref=e933]: Ludowici
+                - listitem [ref=e934]:
+                  - link "Lula" [ref=e935] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lula-city
+                    - paragraph [ref=e936]: Lula
+                - listitem [ref=e937]:
+                  - link "Lumber City" [ref=e938] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lumber-city-city
+                    - paragraph [ref=e939]: Lumber City
+                - listitem [ref=e940]:
+                  - link "Lumpkin" [ref=e941] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lumpkin-city
+                    - paragraph [ref=e942]: Lumpkin
+                - listitem [ref=e943]:
+                  - link "Luthersville" [ref=e944] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-luthersville-city
+                    - paragraph [ref=e945]: Luthersville
+                - listitem [ref=e946]:
+                  - link "Lyerly" [ref=e947] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lyerly-city
+                    - paragraph [ref=e948]: Lyerly
+                - listitem [ref=e949]:
+                  - link "Lyons" [ref=e950] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-lyons-city
+                    - paragraph [ref=e951]: Lyons
+                - listitem [ref=e952]:
+                  - link "Mableton" [ref=e953] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-mableton
+                    - paragraph [ref=e954]: Mableton
+                - listitem [ref=e955]:
+                  - link "Macon" [ref=e956] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-georgia-city-macon
+                    - paragraph [ref=e957]: Macon
+                - listitem [ref=e958]:
+                  - link "Madison" [ref=e959] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-madison-city
+                    - paragraph [ref=e960]: Madison
+                - listitem [ref=e961]:
+                  - link "Manassas" [ref=e962] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-manassas-city
+                    - paragraph [ref=e963]: Manassas
+                - listitem [ref=e964]:
+                  - link "Manchester" [ref=e965] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-manchester-city
+                    - paragraph [ref=e966]: Manchester
+                - listitem [ref=e967]:
+                  - link "Mansfield" [ref=e968] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mansfield-city
+                    - paragraph [ref=e969]: Mansfield
+                - listitem [ref=e970]:
+                  - link "Marietta" [ref=e971] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-marietta-city
+                    - paragraph [ref=e972]: Marietta
+                - listitem [ref=e973]:
+                  - link "Marshallville" [ref=e974] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-marshallville-city
+                    - paragraph [ref=e975]: Marshallville
+                - listitem [ref=e976]:
+                  - link "Martin" [ref=e977] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-martin-city
+                    - paragraph [ref=e978]: Martin
+                - listitem [ref=e979]:
+                  - link "Maxeys" [ref=e980] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-maxeys-city
+                    - paragraph [ref=e981]: Maxeys
+                - listitem [ref=e982]:
+                  - link "Maysville" [ref=e983] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-maysville-city
+                    - paragraph [ref=e984]: Maysville
+                - listitem [ref=e985]:
+                  - link "McCaysville" [ref=e986] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mccaysville-city
+                    - paragraph [ref=e987]: McCaysville
+                - listitem [ref=e988]:
+                  - link "McDonough" [ref=e989] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mcdonough-city
+                    - paragraph [ref=e990]: McDonough
+                - listitem [ref=e991]:
+                  - link "McIntyre" [ref=e992] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mcintyre-city
+                    - paragraph [ref=e993]: McIntyre
+                - listitem [ref=e994]:
+                  - link "Meansville" [ref=e995] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-meansville-city
+                    - paragraph [ref=e996]: Meansville
+                - listitem [ref=e997]:
+                  - link "Meigs" [ref=e998] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-meigs-city
+                    - paragraph [ref=e999]: Meigs
+                - listitem [ref=e1000]:
+                  - link "Menlo" [ref=e1001] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-menlo-city
+                    - paragraph [ref=e1002]: Menlo
+                - listitem [ref=e1003]:
+                  - link "Metter" [ref=e1004] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-metter-city
+                    - paragraph [ref=e1005]: Metter
+                - listitem [ref=e1006]:
+                  - link "Midville" [ref=e1007] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-midville-city
+                    - paragraph [ref=e1008]: Midville
+                - listitem [ref=e1009]:
+                  - link "Midway" [ref=e1010] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-midway-city
+                    - paragraph [ref=e1011]: Midway
+                - listitem [ref=e1012]:
+                  - link "Milan" [ref=e1013] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-milan-city
+                    - paragraph [ref=e1014]: Milan
+                - listitem [ref=e1015]:
+                  - link "Milledgeville" [ref=e1016] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-milledgeville-city
+                    - paragraph [ref=e1017]: Milledgeville
+                - listitem [ref=e1018]:
+                  - link "Millen" [ref=e1019] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-millen-city
+                    - paragraph [ref=e1020]: Millen
+                - listitem [ref=e1021]:
+                  - link "Milner" [ref=e1022] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-milner-city
+                    - paragraph [ref=e1023]: Milner
+                - listitem [ref=e1024]:
+                  - link "Milton" [ref=e1025] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-milton-city
+                    - paragraph [ref=e1026]: Milton
+                - listitem [ref=e1027]:
+                  - link "Mitchell" [ref=e1028] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mitchell-city
+                    - paragraph [ref=e1029]: Mitchell
+                - listitem [ref=e1030]:
+                  - link "Molena" [ref=e1031] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-molena-city
+                    - paragraph [ref=e1032]: Molena
+                - listitem [ref=e1033]:
+                  - link "Monroe" [ref=e1034] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-monroe-city
+                    - paragraph [ref=e1035]: Monroe
+                - listitem [ref=e1036]:
+                  - link "Montezuma" [ref=e1037] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-montezuma-city
+                    - paragraph [ref=e1038]: Montezuma
+                - listitem [ref=e1039]:
+                  - link "Monticello" [ref=e1040] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-monticello-city
+                    - paragraph [ref=e1041]: Monticello
+                - listitem [ref=e1042]:
+                  - link "Montrose" [ref=e1043] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-montrose-city
+                    - paragraph [ref=e1044]: Montrose
+                - listitem [ref=e1045]:
+                  - link "Moreland" [ref=e1046] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-moreland-city
+                    - paragraph [ref=e1047]: Moreland
+                - listitem [ref=e1048]:
+                  - link "Morgan" [ref=e1049] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-morgan-city
+                    - paragraph [ref=e1050]: Morgan
+                - listitem [ref=e1051]:
+                  - link "Morganton" [ref=e1052] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-morganton-city
+                    - paragraph [ref=e1053]: Morganton
+                - listitem [ref=e1054]:
+                  - link "Morrow" [ref=e1055] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-morrow-city
+                    - paragraph [ref=e1056]: Morrow
+                - listitem [ref=e1057]:
+                  - link "Morven" [ref=e1058] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-morven-city
+                    - paragraph [ref=e1059]: Morven
+                - listitem [ref=e1060]:
+                  - link "Moultrie" [ref=e1061] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-moultrie-city
+                    - paragraph [ref=e1062]: Moultrie
+                - listitem [ref=e1063]:
+                  - link "Mount Airy" [ref=e1064] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mount-airy-city
+                    - paragraph [ref=e1065]: Mount Airy
+                - listitem [ref=e1066]:
+                  - link "Mount Vernon" [ref=e1067] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mount-vernon-city
+                    - paragraph [ref=e1068]: Mount Vernon
+                - listitem [ref=e1069]:
+                  - link "Mount Zion" [ref=e1070] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mount-zion-city
+                    - paragraph [ref=e1071]: Mount Zion
+                - listitem [ref=e1072]:
+                  - link "Mountain City" [ref=e1073] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mountain-city-city
+                    - paragraph [ref=e1074]: Mountain City
+                - listitem [ref=e1075]:
+                  - link "Mountain Park" [ref=e1076] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-mountain-park-city
+                    - paragraph [ref=e1077]: Mountain Park
+                - listitem [ref=e1078]:
+                  - link "Nahunta" [ref=e1079] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nahunta-city
+                    - paragraph [ref=e1080]: Nahunta
+                - listitem [ref=e1081]:
+                  - link "Nashville" [ref=e1082] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nashville-city
+                    - paragraph [ref=e1083]: Nashville
+                - listitem [ref=e1084]:
+                  - link "Nelson" [ref=e1085] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nelson-city
+                    - paragraph [ref=e1086]: Nelson
+                - listitem [ref=e1087]:
+                  - link "Newborn" [ref=e1088] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-newborn-city
+                    - paragraph [ref=e1089]: Newborn
+                - listitem [ref=e1090]:
+                  - link "Newington" [ref=e1091] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-newington-city
+                    - paragraph [ref=e1092]: Newington
+                - listitem [ref=e1093]:
+                  - link "Newnan" [ref=e1094] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-newnan-city
+                    - paragraph [ref=e1095]: Newnan
+                - listitem [ref=e1096]:
+                  - link "Newton" [ref=e1097] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-newton-city
+                    - paragraph [ref=e1098]: Newton
+                - listitem [ref=e1099]:
+                  - link "Nicholls" [ref=e1100] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nicholls-city
+                    - paragraph [ref=e1101]: Nicholls
+                - listitem [ref=e1102]:
+                  - link "Nicholson" [ref=e1103] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nicholson-city
+                    - paragraph [ref=e1104]: Nicholson
+                - listitem [ref=e1105]:
+                  - link "Norcross" [ref=e1106] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-norcross-city
+                    - paragraph [ref=e1107]: Norcross
+                - listitem [ref=e1108]:
+                  - link "Norman Park" [ref=e1109] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-norman-park-city
+                    - paragraph [ref=e1110]: Norman Park
+                - listitem [ref=e1111]:
+                  - link "North High Shoals" [ref=e1112] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-north-high-shoals-city
+                    - paragraph [ref=e1113]: North High Shoals
+                - listitem [ref=e1114]:
+                  - link "Norwood" [ref=e1115] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-norwood-city
+                    - paragraph [ref=e1116]: Norwood
+                - listitem [ref=e1117]:
+                  - link "Nunez" [ref=e1118] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-nunez-city
+                    - paragraph [ref=e1119]: Nunez
+                - listitem [ref=e1120]:
+                  - link "Oak Park" [ref=e1121] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oak-park-city
+                    - paragraph [ref=e1122]: Oak Park
+                - listitem [ref=e1123]:
+                  - link "Oakwood" [ref=e1124] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oakwood-city
+                    - paragraph [ref=e1125]: Oakwood
+                - listitem [ref=e1126]:
+                  - link "Ochlocknee" [ref=e1127] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ochlocknee-city
+                    - paragraph [ref=e1128]: Ochlocknee
+                - listitem [ref=e1129]:
+                  - link "Ocilla" [ref=e1130] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ocilla-city
+                    - paragraph [ref=e1131]: Ocilla
+                - listitem [ref=e1132]:
+                  - link "Oconee" [ref=e1133] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oconee-city
+                    - paragraph [ref=e1134]: Oconee
+                - listitem [ref=e1135]:
+                  - link "Odum" [ref=e1136] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-odum-city
+                    - paragraph [ref=e1137]: Odum
+                - listitem [ref=e1138]:
+                  - link "Offerman" [ref=e1139] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-offerman-city
+                    - paragraph [ref=e1140]: Offerman
+                - listitem [ref=e1141]:
+                  - link "Oglethorpe" [ref=e1142] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oglethorpe-city
+                    - paragraph [ref=e1143]: Oglethorpe
+                - listitem [ref=e1144]:
+                  - link "Oliver" [ref=e1145] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oliver-city
+                    - paragraph [ref=e1146]: Oliver
+                - listitem [ref=e1147]:
+                  - link "Omega" [ref=e1148] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-omega-city
+                    - paragraph [ref=e1149]: Omega
+                - listitem [ref=e1150]:
+                  - link "Orchard Hill" [ref=e1151] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-orchard-hill-city
+                    - paragraph [ref=e1152]: Orchard Hill
+                - listitem [ref=e1153]:
+                  - link "Oxford" [ref=e1154] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-oxford-city
+                    - paragraph [ref=e1155]: Oxford
+                - listitem [ref=e1156]:
+                  - link "Palmetto" [ref=e1157] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-palmetto-city
+                    - paragraph [ref=e1158]: Palmetto
+                - listitem [ref=e1159]:
+                  - link "Parrott" [ref=e1160] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-parrott-city
+                    - paragraph [ref=e1161]: Parrott
+                - listitem [ref=e1162]:
+                  - link "Patterson" [ref=e1163] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-patterson-city
+                    - paragraph [ref=e1164]: Patterson
+                - listitem [ref=e1165]:
+                  - link "Pavo" [ref=e1166] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pavo-city
+                    - paragraph [ref=e1167]: Pavo
+                - listitem [ref=e1168]:
+                  - link "Peachtree City" [ref=e1169] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-peachtree-city-city
+                    - paragraph [ref=e1170]: Peachtree City
+                - listitem [ref=e1171]:
+                  - link "Peachtree Corners" [ref=e1172] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-peachtree-corners-city
+                    - paragraph [ref=e1173]: Peachtree Corners
+                - listitem [ref=e1174]:
+                  - link "Pearson" [ref=e1175] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pearson-city
+                    - paragraph [ref=e1176]: Pearson
+                - listitem [ref=e1177]:
+                  - link "Pelham" [ref=e1178] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pelham-city
+                    - paragraph [ref=e1179]: Pelham
+                - listitem [ref=e1180]:
+                  - link "Pembroke" [ref=e1181] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pembroke-city
+                    - paragraph [ref=e1182]: Pembroke
+                - listitem [ref=e1183]:
+                  - link "Pendergrass" [ref=e1184] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pendergrass-city
+                    - paragraph [ref=e1185]: Pendergrass
+                - listitem [ref=e1186]:
+                  - link "Perry" [ref=e1187] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-perry-city
+                    - paragraph [ref=e1188]: Perry
+                - listitem [ref=e1189]:
+                  - link "Pine Lake" [ref=e1190] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pine-lake-city
+                    - paragraph [ref=e1191]: Pine Lake
+                - listitem [ref=e1192]:
+                  - link "Pine Mountain" [ref=e1193] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pine-mountain-city
+                    - paragraph [ref=e1194]: Pine Mountain
+                - listitem [ref=e1195]:
+                  - link "Pinehurst" [ref=e1196] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pinehurst-city
+                    - paragraph [ref=e1197]: Pinehurst
+                - listitem [ref=e1198]:
+                  - link "Pineview" [ref=e1199] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pineview-city
+                    - paragraph [ref=e1200]: Pineview
+                - listitem [ref=e1201]:
+                  - link "Pitts" [ref=e1202] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pitts-city
+                    - paragraph [ref=e1203]: Pitts
+                - listitem [ref=e1204]:
+                  - link "Plains" [ref=e1205] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-plains-city
+                    - paragraph [ref=e1206]: Plains
+                - listitem [ref=e1207]:
+                  - link "Plainville" [ref=e1208] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-plainville-city
+                    - paragraph [ref=e1209]: Plainville
+                - listitem [ref=e1210]:
+                  - link "Pooler" [ref=e1211] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pooler-city
+                    - paragraph [ref=e1212]: Pooler
+                - listitem [ref=e1213]:
+                  - link "Port Wentworth" [ref=e1214] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-port-wentworth-city
+                    - paragraph [ref=e1215]: Port Wentworth
+                - listitem [ref=e1216]:
+                  - link "Portal" [ref=e1217] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-portal-city
+                    - paragraph [ref=e1218]: Portal
+                - listitem [ref=e1219]:
+                  - link "Porterdale" [ref=e1220] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-porterdale-city
+                    - paragraph [ref=e1221]: Porterdale
+                - listitem [ref=e1222]:
+                  - link "Poulan" [ref=e1223] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-poulan-city
+                    - paragraph [ref=e1224]: Poulan
+                - listitem [ref=e1225]:
+                  - link "Powder Springs" [ref=e1226] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-powder-springs-city
+                    - paragraph [ref=e1227]: Powder Springs
+                - listitem [ref=e1228]:
+                  - link "Pulaski" [ref=e1229] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-pulaski-city
+                    - paragraph [ref=e1230]: Pulaski
+                - listitem [ref=e1231]:
+                  - link "Quitman" [ref=e1232] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-quitman-city
+                    - paragraph [ref=e1233]: Quitman
+                - listitem [ref=e1234]:
+                  - link "Ray City" [ref=e1235] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ray-city-city
+                    - paragraph [ref=e1236]: Ray City
+                - listitem [ref=e1237]:
+                  - link "Rayle" [ref=e1238] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rayle-city
+                    - paragraph [ref=e1239]: Rayle
+                - listitem [ref=e1240]:
+                  - link "Rebecca" [ref=e1241] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rebecca-city
+                    - paragraph [ref=e1242]: Rebecca
+                - listitem [ref=e1243]:
+                  - link "Register" [ref=e1244] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-register-city
+                    - paragraph [ref=e1245]: Register
+                - listitem [ref=e1246]:
+                  - link "Reidsville" [ref=e1247] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-reidsville-city
+                    - paragraph [ref=e1248]: Reidsville
+                - listitem [ref=e1249]:
+                  - link "Remerton" [ref=e1250] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-remerton-city
+                    - paragraph [ref=e1251]: Remerton
+                - listitem [ref=e1252]:
+                  - link "Rentz" [ref=e1253] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rentz-city
+                    - paragraph [ref=e1254]: Rentz
+                - listitem [ref=e1255]:
+                  - link "Resaca" [ref=e1256] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-resaca-city
+                    - paragraph [ref=e1257]: Resaca
+                - listitem [ref=e1258]:
+                  - link "Rest Haven" [ref=e1259] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rest-haven-city
+                    - paragraph [ref=e1260]: Rest Haven
+                - listitem [ref=e1261]:
+                  - link "Reynolds" [ref=e1262] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-reynolds-city
+                    - paragraph [ref=e1263]: Reynolds
+                - listitem [ref=e1264]:
+                  - link "Rhine" [ref=e1265] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rhine-city
+                    - paragraph [ref=e1266]: Rhine
+                - listitem [ref=e1267]:
+                  - link "Riceboro" [ref=e1268] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-riceboro-city
+                    - paragraph [ref=e1269]: Riceboro
+                - listitem [ref=e1270]:
+                  - link "Richland" [ref=e1271] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-richland-city
+                    - paragraph [ref=e1272]: Richland
+                - listitem [ref=e1273]:
+                  - link "Richmond Hill" [ref=e1274] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-richmond-hill-city
+                    - paragraph [ref=e1275]: Richmond Hill
+                - listitem [ref=e1276]:
+                  - link "Riddleville" [ref=e1277] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-riddleville-city
+                    - paragraph [ref=e1278]: Riddleville
+                - listitem [ref=e1279]:
+                  - link "Rincon" [ref=e1280] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rincon-city
+                    - paragraph [ref=e1281]: Rincon
+                - listitem [ref=e1282]:
+                  - link "Ringgold" [ref=e1283] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ringgold-city
+                    - paragraph [ref=e1284]: Ringgold
+                - listitem [ref=e1285]:
+                  - link "Riverdale" [ref=e1286] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-riverdale-city
+                    - paragraph [ref=e1287]: Riverdale
+                - listitem [ref=e1288]:
+                  - link "Roberta" [ref=e1289] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-roberta-city
+                    - paragraph [ref=e1290]: Roberta
+                - listitem [ref=e1291]:
+                  - link "Rochelle" [ref=e1292] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rochelle-city
+                    - paragraph [ref=e1293]: Rochelle
+                - listitem [ref=e1294]:
+                  - link "Rockmart" [ref=e1295] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rockmart-city
+                    - paragraph [ref=e1296]: Rockmart
+                - listitem [ref=e1297]:
+                  - link "Rocky Ford" [ref=e1298] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rocky-ford-city
+                    - paragraph [ref=e1299]: Rocky Ford
+                - listitem [ref=e1300]:
+                  - link "Rome" [ref=e1301] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rome-city
+                    - paragraph [ref=e1302]: Rome
+                - listitem [ref=e1303]:
+                  - link "Roopville" [ref=e1304] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-roopville-city
+                    - paragraph [ref=e1305]: Roopville
+                - listitem [ref=e1306]:
+                  - link "Rossville" [ref=e1307] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rossville-city
+                    - paragraph [ref=e1308]: Rossville
+                - listitem [ref=e1309]:
+                  - link "Roswell" [ref=e1310] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-roswell-city
+                    - paragraph [ref=e1311]: Roswell
+                - listitem [ref=e1312]:
+                  - link "Royston" [ref=e1313] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-royston-city
+                    - paragraph [ref=e1314]: Royston
+                - listitem [ref=e1315]:
+                  - link "Rutledge" [ref=e1316] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-rutledge-city
+                    - paragraph [ref=e1317]: Rutledge
+                - listitem [ref=e1318]:
+                  - link "Sale City" [ref=e1319] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sale-city-city
+                    - paragraph [ref=e1320]: Sale City
+                - listitem [ref=e1321]:
+                  - link "Sandersville" [ref=e1322] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sandersville-city
+                    - paragraph [ref=e1323]: Sandersville
+                - listitem [ref=e1324]:
+                  - link "Sandy Springs" [ref=e1325] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sandy-springs-city
+                    - paragraph [ref=e1326]: Sandy Springs
+                - listitem [ref=e1327]:
+                  - link "Santa Claus" [ref=e1328] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-santa-claus-city
+                    - paragraph [ref=e1329]: Santa Claus
+                - listitem [ref=e1330]:
+                  - link "Sardis" [ref=e1331] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sardis-city
+                    - paragraph [ref=e1332]: Sardis
+                - listitem [ref=e1333]:
+                  - link "Sasser" [ref=e1334] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sasser-city
+                    - paragraph [ref=e1335]: Sasser
+                - listitem [ref=e1336]:
+                  - link "Savannah" [ref=e1337] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-savannah-city
+                    - paragraph [ref=e1338]: Savannah
+                - listitem [ref=e1339]:
+                  - link "Scotland" [ref=e1340] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-scotland-city
+                    - paragraph [ref=e1341]: Scotland
+                - listitem [ref=e1342]:
+                  - link "Screven" [ref=e1343] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-screven-city
+                    - paragraph [ref=e1344]: Screven
+                - listitem [ref=e1345]:
+                  - link "Senoia" [ref=e1346] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-senoia-city
+                    - paragraph [ref=e1347]: Senoia
+                - listitem [ref=e1348]:
+                  - link "Shady Dale" [ref=e1349] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-shady-dale-city
+                    - paragraph [ref=e1350]: Shady Dale
+                - listitem [ref=e1351]:
+                  - link "Sharon" [ref=e1352] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sharon-city
+                    - paragraph [ref=e1353]: Sharon
+                - listitem [ref=e1354]:
+                  - link "Sharpsburg" [ref=e1355] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sharpsburg-city
+                    - paragraph [ref=e1356]: Sharpsburg
+                - listitem [ref=e1357]:
+                  - link "Shellman" [ref=e1358] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-shellman-city
+                    - paragraph [ref=e1359]: Shellman
+                - listitem [ref=e1360]:
+                  - link "Shiloh" [ref=e1361] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-shiloh-city
+                    - paragraph [ref=e1362]: Shiloh
+                - listitem [ref=e1363]:
+                  - link "Siloam" [ref=e1364] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-siloam-city
+                    - paragraph [ref=e1365]: Siloam
+                - listitem [ref=e1366]:
+                  - link "Sky Valley" [ref=e1367] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sky-valley-city
+                    - paragraph [ref=e1368]: Sky Valley
+                - listitem [ref=e1369]:
+                  - link "Smithville" [ref=e1370] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-smithville-city
+                    - paragraph [ref=e1371]: Smithville
+                - listitem [ref=e1372]:
+                  - link "Smyrna" [ref=e1373] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-smyrna-city
+                    - paragraph [ref=e1374]: Smyrna
+                - listitem [ref=e1375]:
+                  - link "Snellville" [ref=e1376] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-snellville-city
+                    - paragraph [ref=e1377]: Snellville
+                - listitem [ref=e1378]:
+                  - link "Social Circle" [ref=e1379] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-social-circle-city
+                    - paragraph [ref=e1380]: Social Circle
+                - listitem [ref=e1381]:
+                  - link "Soperton" [ref=e1382] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-soperton-city
+                    - paragraph [ref=e1383]: Soperton
+                - listitem [ref=e1384]:
+                  - link "South Fulton" [ref=e1385] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-south-fulton-city
+                    - paragraph [ref=e1386]: South Fulton
+                - listitem [ref=e1387]:
+                  - link "Sparks" [ref=e1388] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sparks-city
+                    - paragraph [ref=e1389]: Sparks
+                - listitem [ref=e1390]:
+                  - link "Sparta" [ref=e1391] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sparta-city
+                    - paragraph [ref=e1392]: Sparta
+                - listitem [ref=e1393]:
+                  - link "Springfield" [ref=e1394] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-springfield-city
+                    - paragraph [ref=e1395]: Springfield
+                - listitem [ref=e1396]:
+                  - link "St. Marys" [ref=e1397] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-st.-marys-city
+                    - paragraph [ref=e1398]: St. Marys
+                - listitem [ref=e1399]:
+                  - link "Stapleton" [ref=e1400] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-stapleton-city
+                    - paragraph [ref=e1401]: Stapleton
+                - listitem [ref=e1402]:
+                  - link "Statesboro" [ref=e1403] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-statesboro-city
+                    - paragraph [ref=e1404]: Statesboro
+                - listitem [ref=e1405]:
+                  - link "Statham" [ref=e1406] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-statham-city
+                    - paragraph [ref=e1407]: Statham
+                - listitem [ref=e1408]:
+                  - link "Stillmore" [ref=e1409] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-stillmore-city
+                    - paragraph [ref=e1410]: Stillmore
+                - listitem [ref=e1411]:
+                  - link "Stockbridge" [ref=e1412] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-stockbridge-city
+                    - paragraph [ref=e1413]: Stockbridge
+                - listitem [ref=e1414]:
+                  - link "Stone Mountain" [ref=e1415] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-stone-mountain-city
+                    - paragraph [ref=e1416]: Stone Mountain
+                - listitem [ref=e1417]:
+                  - link "Stonecrest" [ref=e1418] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-stonecrest-city
+                    - paragraph [ref=e1419]: Stonecrest
+                - listitem [ref=e1420]:
+                  - link "Sugar Hill" [ref=e1421] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sugar-hill-city
+                    - paragraph [ref=e1422]: Sugar Hill
+                - listitem [ref=e1423]:
+                  - link "Summertown" [ref=e1424] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-summertown-city
+                    - paragraph [ref=e1425]: Summertown
+                - listitem [ref=e1426]:
+                  - link "Summerville" [ref=e1427] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-summerville-city
+                    - paragraph [ref=e1428]: Summerville
+                - listitem [ref=e1429]:
+                  - link "Sumner" [ref=e1430] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sumner-city
+                    - paragraph [ref=e1431]: Sumner
+                - listitem [ref=e1432]:
+                  - link "Sunny Side" [ref=e1433] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sunny-side-city
+                    - paragraph [ref=e1434]: Sunny Side
+                - listitem [ref=e1435]:
+                  - link "Surrency" [ref=e1436] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-surrency-city
+                    - paragraph [ref=e1437]: Surrency
+                - listitem [ref=e1438]:
+                  - link "Suwanee" [ref=e1439] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-suwanee-city
+                    - paragraph [ref=e1440]: Suwanee
+                - listitem [ref=e1441]:
+                  - link "Swainsboro" [ref=e1442] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-swainsboro-city
+                    - paragraph [ref=e1443]: Swainsboro
+                - listitem [ref=e1444]:
+                  - link "Sycamore" [ref=e1445] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sycamore-city
+                    - paragraph [ref=e1446]: Sycamore
+                - listitem [ref=e1447]:
+                  - link "Sylvania" [ref=e1448] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sylvania-city
+                    - paragraph [ref=e1449]: Sylvania
+                - listitem [ref=e1450]:
+                  - link "Sylvester" [ref=e1451] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-sylvester-city
+                    - paragraph [ref=e1452]: Sylvester
+                - listitem [ref=e1453]:
+                  - link "Talbotton" [ref=e1454] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-talbotton-city
+                    - paragraph [ref=e1455]: Talbotton
+                - listitem [ref=e1456]:
+                  - link "Talking Rock" [ref=e1457] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-talking-rock-city
+                    - paragraph [ref=e1458]: Talking Rock
+                - listitem [ref=e1459]:
+                  - link "Tallapoosa" [ref=e1460] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tallapoosa-city
+                    - paragraph [ref=e1461]: Tallapoosa
+                - listitem [ref=e1462]:
+                  - link "Tallulah Falls" [ref=e1463] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tallulah-falls-city
+                    - paragraph [ref=e1464]: Tallulah Falls
+                - listitem [ref=e1465]:
+                  - link "Talmo" [ref=e1466] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-talmo-city
+                    - paragraph [ref=e1467]: Talmo
+                - listitem [ref=e1468]:
+                  - link "Tarrytown" [ref=e1469] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tarrytown-city
+                    - paragraph [ref=e1470]: Tarrytown
+                - listitem [ref=e1471]:
+                  - link "Taylorsville" [ref=e1472] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-taylorsville-city
+                    - paragraph [ref=e1473]: Taylorsville
+                - listitem [ref=e1474]:
+                  - link "Temple" [ref=e1475] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-temple-city
+                    - paragraph [ref=e1476]: Temple
+                - listitem [ref=e1477]:
+                  - link "Tennille" [ref=e1478] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tennille-city
+                    - paragraph [ref=e1479]: Tennille
+                - listitem [ref=e1480]:
+                  - link "Thomaston" [ref=e1481] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-thomaston-city
+                    - paragraph [ref=e1482]: Thomaston
+                - listitem [ref=e1483]:
+                  - link "Thomasville" [ref=e1484] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-thomasville-city
+                    - paragraph [ref=e1485]: Thomasville
+                - listitem [ref=e1486]:
+                  - link "Thomson" [ref=e1487] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-thomson-city
+                    - paragraph [ref=e1488]: Thomson
+                - listitem [ref=e1489]:
+                  - link "Thunderbolt" [ref=e1490] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-thunderbolt-city
+                    - paragraph [ref=e1491]: Thunderbolt
+                - listitem [ref=e1492]:
+                  - link "Tifton" [ref=e1493] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tifton-city
+                    - paragraph [ref=e1494]: Tifton
+                - listitem [ref=e1495]:
+                  - link "Tiger" [ref=e1496] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tiger-city
+                    - paragraph [ref=e1497]: Tiger
+                - listitem [ref=e1498]:
+                  - link "Tignall" [ref=e1499] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tignall-city
+                    - paragraph [ref=e1500]: Tignall
+                - listitem [ref=e1501]:
+                  - link "Toccoa" [ref=e1502] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-toccoa-city
+                    - paragraph [ref=e1503]: Toccoa
+                - listitem [ref=e1504]:
+                  - link "Toomsboro" [ref=e1505] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-toomsboro-city
+                    - paragraph [ref=e1506]: Toomsboro
+                - listitem [ref=e1507]:
+                  - link "Trenton" [ref=e1508] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-trenton-city
+                    - paragraph [ref=e1509]: Trenton
+                - listitem [ref=e1510]:
+                  - link "Trion" [ref=e1511] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-trion-city
+                    - paragraph [ref=e1512]: Trion
+                - listitem [ref=e1513]:
+                  - link "Tucker" [ref=e1514] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tucker-city
+                    - paragraph [ref=e1515]: Tucker
+                - listitem [ref=e1516]:
+                  - link "Tunnel Hill" [ref=e1517] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tunnel-hill-city
+                    - paragraph [ref=e1518]: Tunnel Hill
+                - listitem [ref=e1519]:
+                  - link "Turin" [ref=e1520] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-turin-city
+                    - paragraph [ref=e1521]: Turin
+                - listitem [ref=e1522]:
+                  - link "Twin City" [ref=e1523] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-twin-city-city
+                    - paragraph [ref=e1524]: Twin City
+                - listitem [ref=e1525]:
+                  - link "Ty Ty" [ref=e1526] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-ty-ty-city
+                    - paragraph [ref=e1527]: Ty Ty
+                - listitem [ref=e1528]:
+                  - link "Tybee Island" [ref=e1529] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tybee-island-city
+                    - paragraph [ref=e1530]: Tybee Island
+                - listitem [ref=e1531]:
+                  - link "Tyrone" [ref=e1532] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-tyrone-city
+                    - paragraph [ref=e1533]: Tyrone
+                - listitem [ref=e1534]:
+                  - link "Unadilla" [ref=e1535] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-unadilla-city
+                    - paragraph [ref=e1536]: Unadilla
+                - listitem [ref=e1537]:
+                  - link "Union City" [ref=e1538] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-union-city
+                    - paragraph [ref=e1539]: Union City
+                - listitem [ref=e1540]:
+                  - link "Union Point" [ref=e1541] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-union-point-city
+                    - paragraph [ref=e1542]: Union Point
+                - listitem [ref=e1543]:
+                  - link "Uvalda" [ref=e1544] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-uvalda-city
+                    - paragraph [ref=e1545]: Uvalda
+                - listitem [ref=e1546]:
+                  - link "Valdosta" [ref=e1547] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-valdosta-city
+                    - paragraph [ref=e1548]: Valdosta
+                - listitem [ref=e1549]:
+                  - link "Varnell" [ref=e1550] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-varnell-city
+                    - paragraph [ref=e1551]: Varnell
+                - listitem [ref=e1552]:
+                  - link "Vernonburg" [ref=e1553] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-vernonburg-city
+                    - paragraph [ref=e1554]: Vernonburg
+                - listitem [ref=e1555]:
+                  - link "Vidalia" [ref=e1556] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-vidalia-city
+                    - paragraph [ref=e1557]: Vidalia
+                - listitem [ref=e1558]:
+                  - link "Vidette" [ref=e1559] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-vidette-city
+                    - paragraph [ref=e1560]: Vidette
+                - listitem [ref=e1561]:
+                  - link "Vienna" [ref=e1562] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-vienna-city
+                    - paragraph [ref=e1563]: Vienna
+                - listitem [ref=e1564]:
+                  - link "Villa Rica" [ref=e1565] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-villa-rica-city
+                    - paragraph [ref=e1566]: Villa Rica
+                - listitem [ref=e1567]:
+                  - link "Waco" [ref=e1568] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-waco-city
+                    - paragraph [ref=e1569]: Waco
+                - listitem [ref=e1570]:
+                  - link "Wadley" [ref=e1571] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-wadley-city
+                    - paragraph [ref=e1572]: Wadley
+                - listitem [ref=e1573]:
+                  - link "Waleska" [ref=e1574] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-waleska-city
+                    - paragraph [ref=e1575]: Waleska
+                - listitem [ref=e1576]:
+                  - link "Walnut Grove" [ref=e1577] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-walnut-grove-city
+                    - paragraph [ref=e1578]: Walnut Grove
+                - listitem [ref=e1579]:
+                  - link "Walthourville" [ref=e1580] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-walthourville-city
+                    - paragraph [ref=e1581]: Walthourville
+                - listitem [ref=e1582]:
+                  - link "Warm Springs" [ref=e1583] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-warm-springs-city
+                    - paragraph [ref=e1584]: Warm Springs
+                - listitem [ref=e1585]:
+                  - link "Warner Robins" [ref=e1586] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-warner-robins-city
+                    - paragraph [ref=e1587]: Warner Robins
+                - listitem [ref=e1588]:
+                  - link "Warrenton" [ref=e1589] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-warrenton-city
+                    - paragraph [ref=e1590]: Warrenton
+                - listitem [ref=e1591]:
+                  - link "Warwick" [ref=e1592] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-warwick-city
+                    - paragraph [ref=e1593]: Warwick
+                - listitem [ref=e1594]:
+                  - link "Washington" [ref=e1595] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-washington-city
+                    - paragraph [ref=e1596]: Washington
+                - listitem [ref=e1597]:
+                  - link "Watkinsville" [ref=e1598] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-watkinsville-city
+                    - paragraph [ref=e1599]: Watkinsville
+                - listitem [ref=e1600]:
+                  - link "Waverly Hall" [ref=e1601] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-waverly-hall-city
+                    - paragraph [ref=e1602]: Waverly Hall
+                - listitem [ref=e1603]:
+                  - link "Waycross" [ref=e1604] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-waycross-city
+                    - paragraph [ref=e1605]: Waycross
+                - listitem [ref=e1606]:
+                  - link "Waynesboro" [ref=e1607] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-waynesboro-city
+                    - paragraph [ref=e1608]: Waynesboro
+                - listitem [ref=e1609]:
+                  - link "West Point" [ref=e1610] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-west-point-city
+                    - paragraph [ref=e1611]: West Point
+                - listitem [ref=e1612]:
+                  - link "Whigham" [ref=e1613] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-whigham-city
+                    - paragraph [ref=e1614]: Whigham
+                - listitem [ref=e1615]:
+                  - link "White" [ref=e1616] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-white-city
+                    - paragraph [ref=e1617]: White
+                - listitem [ref=e1618]:
+                  - link "White Plains" [ref=e1619] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-white-plains-city
+                    - paragraph [ref=e1620]: White Plains
+                - listitem [ref=e1621]:
+                  - link "Whitesburg" [ref=e1622] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-whitesburg-city
+                    - paragraph [ref=e1623]: Whitesburg
+                - listitem [ref=e1624]:
+                  - link "Willacoochee" [ref=e1625] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-willacoochee-city
+                    - paragraph [ref=e1626]: Willacoochee
+                - listitem [ref=e1627]:
+                  - link "Williamson" [ref=e1628] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-williamson-city
+                    - paragraph [ref=e1629]: Williamson
+                - listitem [ref=e1630]:
+                  - link "Winder" [ref=e1631] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-winder-city
+                    - paragraph [ref=e1632]: Winder
+                - listitem [ref=e1633]:
+                  - link "Winterville" [ref=e1634] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-winterville-city
+                    - paragraph [ref=e1635]: Winterville
+                - listitem [ref=e1636]:
+                  - link "Woodbine" [ref=e1637] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woodbine-city
+                    - paragraph [ref=e1638]: Woodbine
+                - listitem [ref=e1639]:
+                  - link "Woodbury" [ref=e1640] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woodbury-city
+                    - paragraph [ref=e1641]: Woodbury
+                - listitem [ref=e1642]:
+                  - link "Woodland" [ref=e1643] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woodland-city
+                    - paragraph [ref=e1644]: Woodland
+                - listitem [ref=e1645]:
+                  - link "Woodstock" [ref=e1646] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woodstock-city
+                    - paragraph [ref=e1647]: Woodstock
+                - listitem [ref=e1648]:
+                  - link "Woodville" [ref=e1649] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woodville-city
+                    - paragraph [ref=e1650]: Woodville
+                - listitem [ref=e1651]:
+                  - link "Woolsey" [ref=e1652] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-woolsey-city
+                    - paragraph [ref=e1653]: Woolsey
+                - listitem [ref=e1654]:
+                  - link "Wrens" [ref=e1655] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-wrens-city
+                    - paragraph [ref=e1656]: Wrens
+                - listitem [ref=e1657]:
+                  - link "Wrightsville" [ref=e1658] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-wrightsville-city
+                    - paragraph [ref=e1659]: Wrightsville
+                - listitem [ref=e1660]:
+                  - link "Yatesville" [ref=e1661] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-yatesville-city
+                    - paragraph [ref=e1662]: Yatesville
+                - listitem [ref=e1663]:
+                  - link "Young Harris" [ref=e1664] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-young-harris-city
+                    - paragraph [ref=e1665]: Young Harris
+                - listitem [ref=e1666]:
+                  - link "Zebulon" [ref=e1667] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-primary-election/city/ga-zebulon-city
+                    - paragraph [ref=e1668]: Zebulon
+            - generic [ref=e1669]:
+              - heading "Explore past elections in Georgia" [level=2] [ref=e1670]
+              - paragraph [ref=e1671]: Click on an election below to explore Branch's nonpartisan information on thousands of candidates.
+              - list [ref=e1672]:
+                - listitem [ref=e1673]:
+                  - link "April 7, 2026 Special Election" [ref=e1674] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-march-special-runoff
+                    - paragraph [ref=e1675]: April 7, 2026 Special Election
+                - listitem [ref=e1676]:
+                  - link "March 10, 2026 Special Election" [ref=e1677] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-march-special-election
+                    - paragraph [ref=e1678]: March 10, 2026 Special Election
+                - listitem [ref=e1679]:
+                  - link "January 6, 2026 Special Election" [ref=e1680] [cursor=pointer]:
+                    - /url: /elections/state/ga/2026-georgia-hd-23-special-runoff
+                    - paragraph [ref=e1681]: January 6, 2026 Special Election
+                - listitem [ref=e1682]:
+                  - link "December 16, 2025 Special Election" [ref=e1683] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-georgia-sd-35-runoff
+                    - paragraph [ref=e1684]: December 16, 2025 Special Election
+                - listitem [ref=e1685]:
+                  - link "December 9, 2025 Special Election" [ref=e1686] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-georgia-hd-23-special-election
+                    - paragraph [ref=e1687]: December 9, 2025 Special Election
+                - listitem [ref=e1688]:
+                  - link "December 2, 2025 Runoff Election" [ref=e1689] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-georgia-municipal-runoff
+                    - paragraph [ref=e1690]: December 2, 2025 Runoff Election
+                - listitem [ref=e1691]:
+                  - link "November 18, 2025 Special Election" [ref=e1692] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-georgia-sd-35-special-election
+                    - paragraph [ref=e1693]: November 18, 2025 Special Election
+                - listitem [ref=e1694]:
+                  - link "November 4, 2025 Election" [ref=e1695] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-ga-general-election
+                    - paragraph [ref=e1696]: November 4, 2025 Election
+                - listitem [ref=e1697]:
+                  - link "September 23, 2025 Special Election" [ref=e1698] [cursor=pointer]:
+                    - /url: /elections/state/ga/2025-ga-state-senate-special-runoff
+                    - paragraph [ref=e1699]: September 23, 2025 Special Election
+      - generic [ref=e1700]:
+        - generic [ref=e1701]:
+          - link "Branch Facebook Page" [ref=e1702] [cursor=pointer]:
+            - /url: https://facebook.com/branchpolitics
+            - img [ref=e1703]
+          - link "Branch Instagram Page" [ref=e1705] [cursor=pointer]:
+            - /url: https://instagram.com/branchpolitics
+            - img [ref=e1706]
+          - link "Branch Twitter Page" [ref=e1710] [cursor=pointer]:
+            - /url: https://twitter.com/branchpolitics
+            - img [ref=e1711]
+          - link "Branch Medium Page" [ref=e1713] [cursor=pointer]:
+            - /url: https://branchpolitics.medium.com/
+            - img [ref=e1714]
+        - generic [ref=e1716]:
+          - link "Get involved" [ref=e1717] [cursor=pointer]:
+            - /url: https://mailchi.mp/cc989bc218bc/gardener-signup
+            - paragraph [ref=e1718]: Get involved
+          - generic [ref=e1719]: ·
+          - link "Terms of use" [ref=e1720] [cursor=pointer]:
+            - /url: /termsofuse
+            - paragraph [ref=e1721]: Terms of use
+          - generic [ref=e1722]: ·
+          - link "Privacy policy" [ref=e1723] [cursor=pointer]:
+            - /url: /privacy-policy
+            - paragraph [ref=e1724]: Privacy policy
+          - generic [ref=e1725]: ·
+          - link "About" [ref=e1726] [cursor=pointer]:
+            - /url: /about
+            - paragraph [ref=e1727]: About
+        - generic [ref=e1728]:
+          - link "Upcoming elections" [ref=e1729] [cursor=pointer]:
+            - /url: /elections
+            - paragraph [ref=e1730]: Upcoming elections
+          - generic [ref=e1731]: ·
+          - link "Blog" [ref=e1732] [cursor=pointer]:
+            - /url: https://branchpolitics.medium.com/
+            - paragraph [ref=e1733]: Blog
+          - generic [ref=e1734]: ·
+          - link "Get in touch" [ref=e1735] [cursor=pointer]:
+            - /url: mailto:hello@branch.chat?subject=Hello!
+            - paragraph [ref=e1736]: Get in touch
+          - generic [ref=e1737]: ·
+          - link "For campaigns" [ref=e1738] [cursor=pointer]:
+            - /url: /campaign
+            - paragraph [ref=e1739]: For campaigns
+        - button "English" [ref=e1740] [cursor=pointer]:
+          - img [ref=e1742]
+          - text: English
+        - paragraph [ref=e1744]: © 2024 Branch | All rights reserved
+  - alert [ref=e1745]
